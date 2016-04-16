@@ -10,8 +10,5 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 ### This page was built by:
 
 + Alex Pearson
-<<<<<<< HEAD
 + Frank Smith
-=======
 + Abhishek Joshi
->>>>>>> eb0b6c1ae225f9f9782a7f7cd4ac5b084db76eb8
