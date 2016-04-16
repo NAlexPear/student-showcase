@@ -12,3 +12,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 + Alex Pearson
 + Frank Smith
 + Abhishek Joshi
++ Betsy Quinn
