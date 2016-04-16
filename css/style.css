@@ -28,6 +28,11 @@ b {
     font-style: italic;
     margin-top: 1em;
 }
+
+#aj {
+    background-color: teal;
+}
+
 #alex {
     background-color: lightgrey;
 }
@@ -44,10 +49,11 @@ b {
   color: #391326;
   padding: 5px;
 }
-  #betsy h3, #betsy h4 {
-    color: white;
-    padding: 5px;
-  }
+
+#betsy h3, #betsy h4 {
+color: white;
+padding: 5px;
+}
 
 #Frank {
     background-color: orange;
