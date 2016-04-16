@@ -48,6 +48,10 @@ div {
     overflow: hidden;
 }
 
+.container {
+  border-radius: 0;
+}
+
 b {
     font-weight: 700;
 }
