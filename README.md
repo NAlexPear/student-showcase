@@ -10,4 +10,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 ### This page was built by:
 
 + Alex Pearson
-+ new name
++ Frank Smith
