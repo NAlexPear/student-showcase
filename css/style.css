@@ -50,6 +50,14 @@ b {
   }
 
 #Frank {
-    background-color: orange;
-    font-weight: bolder;
+    background-color: black;
+    font-family: cursive;
+    text-decoration: underline;
+    color: green;
+}
+
+  #Frank h3 {
+    color: blue;
+    padding 10px;
+
 }
