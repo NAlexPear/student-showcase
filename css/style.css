@@ -23,6 +23,11 @@ div {
 b {
     font-weight: 700;
 }
+
+.subtitle{
+    font-style: italic;
+    margin-top: 1em;
+}
 #alex {
     background-color: lightgrey;
 }
