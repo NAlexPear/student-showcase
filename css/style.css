@@ -33,7 +33,20 @@ b {
 }
 
 #betsy {
+  background-color: #d279a6;
   font-family: sans-serif;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  }
+
+#betsy a {
+  color: #391326;
+  padding: 5px;
+}
+  #betsy h3, #betsy h4 {
+    color: white;
+    padding: 5px;
   }
 
 #Frank {
