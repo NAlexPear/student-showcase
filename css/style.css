@@ -26,7 +26,6 @@ b {
 #ricardo {
   background-color: #00bfff;
 }
-
 #simone {
   background-color: #48e0e2;
 }
@@ -45,6 +44,8 @@ b {
 #rebecca h3 {
   color: white;
 }
+#gena {
+  background-color: #90EE90;
 
 #wayne {
   background-color: rgb(0,255,255);
@@ -57,8 +58,6 @@ b {
 #wayne span {
   font-weight: bold;
   font-style: italic;
-
-
 }
 
 #wayne h3 {
@@ -67,5 +66,4 @@ b {
 
 #wayne ul>li {
   color:white;
-
 }
