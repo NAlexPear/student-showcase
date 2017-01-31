@@ -26,3 +26,18 @@ b {
 #simone {
   background-color: #48e0e2;
 }
+#rebecca {
+  background-color: #1B2D5C;
+}
+#rebecca img {
+  max-width: 75%;
+}
+#rebecca {
+  color: white;
+}
+#rebecca blockquote {
+  font-style: italic;
+}
+#rebecca h3 {
+  color: white;
+}
