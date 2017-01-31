@@ -10,4 +10,8 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 ### This page was built by:
 
 + Simone Gonzalez
+
 + Wayne Lawler
+
++ Rebecca McGrath
+
