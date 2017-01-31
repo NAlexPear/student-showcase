@@ -12,4 +12,5 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 + Simone Gonzalez
 + Richard W. Rouse
 + Wayne Lawler
++ Gena Serey
 + Rebecca McGrath
