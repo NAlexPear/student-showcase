@@ -11,3 +11,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
 + Simone Gonzalez
 + Gena Serey
++ Rebecca McGrath
