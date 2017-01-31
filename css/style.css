@@ -46,6 +46,26 @@ b {
   color: white;
 }
 
-#gena {
-  background-color: #90EE90;
+#wayne {
+  background-color: rgb(0,255,255);
+}
+
+#wayne img {
+  max-width: 150%;
+}
+
+#wayne span {
+  font-weight: bold;
+  font-style: italic;
+
+
+}
+
+#wayne h3 {
+  color:white;
+}
+
+#wayne ul>li {
+  color:white;
+
 }
