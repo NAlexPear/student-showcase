@@ -57,7 +57,7 @@
 }
 
 #travstuff img{
-  width: 327.36px;
+  width: 100%;
   height: auto;
 }
 #travstuff li{
@@ -68,7 +68,7 @@
 #travstuff{
   border: 1px solid maroon
 }
-.travheading {
+#travstuff h1{
   font-weight: bold;
   text-align: center;
 }
