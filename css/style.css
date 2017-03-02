@@ -32,3 +32,30 @@
 .nataliecontact ul{
   font-size: 18px;
 }
+
+#travstuff img{
+  width: 327.36px;
+  height: auto;
+}
+#travstuff li{
+  font-family: sans-serif;
+  color: maroon;
+  text-align: center;
+}
+#travstuff{
+  border: 1px solid maroon
+}
+.travheading {
+  font-weight: bold;
+  text-align: center;
+}
+
+#marquee img{
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+#psimg{
+  width: 10px;
+  height:auto;
+}
