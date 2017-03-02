@@ -1,0 +1,34 @@
+#natalie img {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  width: 50%;
+}
+
+#natalie h3 {
+  font-family:monospace;
+  font-weight: 700px;
+  color: hotpink;
+  font-size: 30px;
+  margin-left: .5em
+}
+
+#natalie h4{
+  font-weight: 900px;
+  color: turquoise;
+  font-size: 20px;
+  text-align: center;
+}
+
+#natalie a{
+  margin-left: .5em;
+  font-size: 15px;
+  color: hotpink;
+}
+.nataliecontact{
+  text-align: center;
+  color: white;
+}
+
+.nataliecontact ul{
+  font-size: 18px;
+}
