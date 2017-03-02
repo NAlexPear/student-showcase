@@ -1,3 +1,26 @@
+#justin-overall{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	color: #5e5b5b;
+	background: #91d7b4;
+	display: block;
+	line-height: 1.2;
+}
+
+#justin-overall .center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 300px;
+	margin: 0;
+	padding: 0;
+}
+
+#justin-overall a{
+	color: #0000ff;
+	text-decoration: underline;
+}
+
 #natalie img {
   margin-top: 1em;
   margin-bottom: 1em;
