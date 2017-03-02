@@ -10,7 +10,7 @@
 #travstuff{
   border: 1px solid maroon
 }
-.travheading {
+#travstuff h1{
   font-weight: bold;
   text-align: center;
 }
