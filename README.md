@@ -8,3 +8,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 ### Contributors
 Melissa Pabst
 Alex Pearson
+Kenny Hall
