@@ -9,4 +9,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 + Justin Ruessler
 + Travis Mowers
 + Alex Pearson
-+ Natalie Galucia
++ Kedric Webster
