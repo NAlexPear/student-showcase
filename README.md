@@ -11,3 +11,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 + Alex Pearson
 + Natalie Galucia
 + Wang Min
++ Lauren Tremblay
