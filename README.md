@@ -10,3 +10,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 + Travis Mowers
 + Alex Pearson
 + Natalie Galucia
++ Lauren Tremblay
