@@ -1,0 +1,19 @@
+.kenzo h1, h3 {
+    color:red;
+    text-align:center;
+}
+
+.kenzo div {
+    background-color:silver;
+}
+
+.kenzo p {
+    font-style: italic;
+    text-align:center;
+        background-color:silver;
+}
+
+.kenzo img {
+    width:100%auto;
+    margin:auto;
+}
