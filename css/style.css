@@ -82,3 +82,37 @@
   width: 10px;
   height:auto;
 }
+
+#lt {
+	font-family: Verdana;
+	border: 1em;
+	border-style: groove;
+	border-color: #4a6084;
+}
+
+#lt h1 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #4a6084;
+	text-align: center;
+}
+
+#lt ul {
+	font-size: 18px;
+	font-weight: normal;
+	color: #213659;
+	text-align: center;
+}
+
+#lt h3 {
+	font-size: 16px;
+	color: #213659;
+	font-style: italic;
+}
+
+#ltpic {
+	margin: 10px auto;
+	height: 50%;
+	width: 50%;
+	display: block;
+}
