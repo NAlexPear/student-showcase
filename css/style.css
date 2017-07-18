@@ -1,20 +1,30 @@
-#justin-overall{
+/*-----CHlOE-------*/
+
+#chloe-k {
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 24px;
 	color: #5e5b5b;
 	background: #91d7b4;
 	display: block;
-	line-height: 1.2;
+	align-items: center;
+	justify content: center;
+	display: flex;
+	padding: 1.5em;
+	border: black dotted 1px;
 }
 
-#justin-overall .center{
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 300px;
-	margin: 0;
+#chloe-k h3 {
+	text-align: center;
 	padding: 0;
+	display: block;
 }
+
+#ckphoto {
+	margin: 0 auto;
+	padding: 0;
+	display: block;
+}
+
+/*-----CHlOE-------*/
 
 #justin-overall a{
 	color: #0000ff;
@@ -91,4 +101,50 @@
 #psimg{
   width: 10px;
   height:auto;
+}
+
+#lt {
+	font-family: Verdana;
+	border: 1em;
+	border-style: groove;
+	border-color: #4a6084;
+}
+
+#lt h1 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #4a6084;
+	text-align: center;
+}
+
+#lt ul {
+	font-size: 18px;
+	font-weight: normal;
+	color: #213659;
+	text-align: center;
+}
+
+#lt h3 {
+	font-size: 16px;
+	color: #213659;
+	font-style: italic;
+	margin-left: 1em;
+}
+
+#ltpic {
+	margin: 10px auto;
+	height: 50%;
+	width: 50%;
+	display: block;
+}
+
+#wang div.polaroid {
+		width: 100%;
+		background-color: white;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#wang div.container_p {
+	text-align: center;
+	padding: 10px 20px;
 }
