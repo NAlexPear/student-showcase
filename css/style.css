@@ -1,3 +1,24 @@
+.kenzo h1,
+.kenzo h3 {
+    color:red;
+    text-align:center;
+}
+
+.kenzo div {
+    background-color:silver;
+}
+
+.kenzo p {
+    font-style: italic;
+    text-align:center;
+        background-color:silver;
+}
+
+.kenzo img {
+    width:100%auto;
+    margin:auto;
+}
+
 .helenimg{
   max-width:200px;
   width:100%;
