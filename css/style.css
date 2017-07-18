@@ -1,3 +1,18 @@
+#kedric-webster {
+	font-family: Arial, sans-serif;
+	margin: 0 5 0 5;
+}
+#kedric-webster img{
+	height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  padding: 2%;
+	
+}
+#kedric-webster p{
+	line-height: 2em;
+}
+
 #justin-overall{
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 24px;
