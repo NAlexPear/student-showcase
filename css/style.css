@@ -117,3 +117,14 @@
 	width: 50%;
 	display: block;
 }
+
+#wang div.polaroid {
+		width: 100%;
+		background-color: white;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#wang div.container_p {
+	text-align: center;
+	padding: 10px 20px;
+}
