@@ -9,3 +9,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 Melissa Pabst
 Alex Pearson
 Kenny Hall
+Helen Tierney
