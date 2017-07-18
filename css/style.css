@@ -1,20 +1,30 @@
-#justin-overall{
+/*-----CHlOE-------*/
+
+#chloe-k {
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 24px;
 	color: #5e5b5b;
 	background: #91d7b4;
 	display: block;
-	line-height: 1.2;
+	align-items: center;
+	justify content: center;
+	display: flex;
+	padding: 1.5em;
+	border: black dotted 1px;
 }
 
-#justin-overall .center{
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 300px;
-	margin: 0;
+#chloe-k h3 {
+	text-align: center;
 	padding: 0;
+	display: block;
 }
+
+#ckphoto {
+	margin: 0 auto;
+	padding: 0;
+	display: block;
+}
+
+/*-----CHlOE-------*/
 
 #justin-overall a{
 	color: #0000ff;
