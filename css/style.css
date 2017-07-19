@@ -19,6 +19,23 @@
 
 }
 
+.IMGMelissa{
+    max-width: 200px;
+    height:auto;
+    width:100%;
+    margin: 0 auto;
+}
+
+.LIMelissa{
+    max-height: 50px;
+    width: auto;
+}
+
+.PMelissa{
+    font-size: 30px;
+    text-align: left;
+}
+
 .helenimg{
   max-width:200px;
   width:100%;
