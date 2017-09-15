@@ -12,3 +12,16 @@ img {
   border-radius: 10px;
   margin-bottom: 10px;
 }
+.megquote {
+  border-radius: 10px;
+  font-size: 80px;
+  color: blue;
+}
+.megcontact {
+  font-size: 60px;
+  color: orange;
+}
+.container {
+  max-width: 750px;
+  margin: 0 auto;
+}
