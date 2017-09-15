@@ -7,4 +7,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
 ## Contributors
 + Alex Pearson
-+ I want to code!
++ Shawon Roberts(King)
