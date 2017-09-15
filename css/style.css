@@ -1,0 +1,14 @@
+img {
+  width: 100%;
+}
+
+#alex {
+  background-color: lightgrey;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+#alex img {
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
