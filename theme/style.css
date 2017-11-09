@@ -108,3 +108,16 @@
 div.rjLayout {
   background-color: lightblue;
 }
+
+.JanaeDiv {
+  background-color: lightgreen;
+}
+
+.JanaeDiv h1 {
+  color: deeppink;
+}
+
+.JanaeDiv img{
+  height: 32%;
+  width: 32%;
+}
