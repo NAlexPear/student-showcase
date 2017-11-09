@@ -19,11 +19,17 @@
 
 /* style your grid sections here!  */
 .andrewDiv > img{
-    width: 300px;
+    width: 100%;
     box-shadow: 2px 2px 10px black;
 }
 .andrewDiv{
     background: crimson;
+    font-family: arial;
+}
+.content > div:nth-child(12){
+    background: crimson;
+}
+
 #me{
   background:url('http://thewallpaper.co/wp-content/uploads/2016/10/Amazing-Abstract-Pictures-HD-1080p-desktop-images-download-hd-free-windows-wallpaper-samsung-iphone-mac-1920x1080.jpg');
 
