@@ -28,5 +28,83 @@
 }
 .content > div:nth-child(12){
     background: crimson;
+}
 
+#me{
+  background:url('http://thewallpaper.co/wp-content/uploads/2016/10/Amazing-Abstract-Pictures-HD-1080p-desktop-images-download-hd-free-windows-wallpaper-samsung-iphone-mac-1920x1080.jpg');
+
+}
+
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+#jonai {
+  font-family: Josefin Slab;
+	border-right: .1em solid #848484;
+	width: calc(0.55em * 14);
+	width: 31ch;
+	white-space: nowrap;
+	overflow: hidden;
+	-webkit-animation: typing 15s infinite steps(31, end),
+	           blink-caret .5s step-end infinite alternate;
+}
+#jonai {
+
+  font-family: Comic Sans MS;
+  text-decoration:underline;
+  color:hotpink;
+  text-align:center;
+}
+
+#jpic {
+  width:30em;
+  float:center;
+  border-top:black 20em;
+
+}
+#jpri{
+  font-family:Comic Sans MS;
+  text-align:center;
+  height:60em;
+}
+
+.MartinsDiv{
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
+  background-color: lightcoral;
+}
+.MartinsDiv > img{
+  display: block;
+  width: 100%;
+}
+
+.rjLayout h1 {
+  font-size: 4em;
+  font-weight: 500;
+  font-style: oblique;
+  margin: 10px 50px 10px 100px;
+  padding: 10px 50px 10px 100px;
+  color: blue;
+}
+
+.rjLayout > img {
+  width: 50%;
+  height: auto;
+  margin: 10px 50px 10px 100px;
+  padding: 10px 50px 10px 100px;
+
+}
+
+.rjLayout > h2 {
+  font-size: 2em;
+  margin: 10px 50px 10px 100px;
+  padding: 10px 50px 10px 100px;
+}
+
+div.rjLayout {
+  background-color: lightblue;
 }
