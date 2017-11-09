@@ -120,7 +120,7 @@ div.rjLayout {
   background-color: lightblue;
 }
 
-.JanaeDiv {
+div.JanaeDiv {
   background-color: lightgreen;
 }
 
@@ -129,8 +129,8 @@ div.rjLayout {
 }
 
 .JanaeDiv img{
-  height: 32%;
-  width: 32%;
+  height: 94%;
+  width: 94%;
 }
 .teesaBox {
   background-color: steelblue;
