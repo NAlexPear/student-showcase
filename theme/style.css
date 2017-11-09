@@ -25,3 +25,17 @@
 .andrewDiv{
     background: crimson;
 }
+
+.MartinsDiv{
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
+  background-color: lightcoral;
+}
+.MartinsDiv > img{
+  display: block;
+  width: 100%;
+}
