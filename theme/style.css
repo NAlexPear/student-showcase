@@ -85,6 +85,17 @@
   display: block;
   width: 100%;
 }
+.MartinsDiv > h1 {
+  font-family: Verdana;
+  font-size: 2em;
+  color: blue;
+}
+.MartinsDiv > a {
+  font-family: Verdana;
+  font-size: 1em;
+  color: blue;
+  padding: 10px;
+}
 
 .rjLayout h1 {
   font-size: 4em;
@@ -113,7 +124,17 @@ div.rjLayout {
   background-color: lightblue;
 }
 
-.JanaeDiv {
+.leodiv > img {
+  display: block;
+  width: 100%;
+}
+
+.leodiv > div:nth-child(10){
+  background: red;
+  font-family: cursive;
+}
+
+div.JanaeDiv {
   background-color: lightgreen;
 }
 
@@ -122,8 +143,8 @@ div.rjLayout {
 }
 
 .JanaeDiv img{
-  height: 32%;
-  width: 32%;
+  height: 94%;
+  width: 94%;
 }
 .teesaBox {
   background-color: steelblue;
