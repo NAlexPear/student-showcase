@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  background-image: url(http://via.placeholder.com/450x150);
+  background-image: url(/class-photo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -13,6 +13,129 @@
   display: block;
   max-width: 750px;
   text-align: center;
+  color: chartreuse;
+  font-family: sans-serif;
 }
 
 /* style your grid sections here!  */
+.andrewDiv > img{
+    width: 100%;
+    box-shadow: 2px 2px 10px black;
+}
+.andrewDiv{
+    background: crimson;
+    font-family: arial;
+}
+.content > div:nth-child(12){
+    background: crimson;
+}
+
+#me{
+  background:url('http://thewallpaper.co/wp-content/uploads/2016/10/Amazing-Abstract-Pictures-HD-1080p-desktop-images-download-hd-free-windows-wallpaper-samsung-iphone-mac-1920x1080.jpg');
+
+}
+
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+#jonai {
+  font-family: Josefin Slab;
+	border-right: .1em solid #848484;
+	width: calc(0.55em * 14);
+	width: 31ch;
+	white-space: nowrap;
+	overflow: hidden;
+	-webkit-animation: typing 15s infinite steps(31, end),
+	           blink-caret .5s step-end infinite alternate;
+}
+#jonai {
+
+  font-family: Comic Sans MS;
+  text-decoration:underline;
+  color:hotpink;
+  text-align:center;
+}
+
+#jpic {
+  width:30em;
+  float:center;
+  border-top:black 20em;
+
+}
+#jpri{
+  font-family:Comic Sans MS;
+  text-align:center;
+  height:60em;
+}
+
+.MartinsDiv{
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
+  background-color: lightcoral;
+}
+.MartinsDiv > img{
+  display: block;
+  width: 100%;
+}
+.MartinsDiv > h1 {
+  font-family: Verdana;
+  font-size: 2em;
+  color: blue;
+}
+.MartinsDiv > a {
+  font-family: Verdana;
+  font-size: 1em;
+  color: blue;
+  padding: 10px;
+}
+
+.rjLayout h1 {
+  font-size: 4em;
+  font-weight: 500;
+  font-style: oblique;
+  margin: 10px 50px 10px 100px;
+  padding: 10px 50px 10px 100px;
+  color: blue;
+}
+
+.rjLayout > img {
+  width: 50%;
+  height: auto;
+  margin: 10px 50px 10px 100px;
+  padding: 10px 50px 10px 100px;
+
+}
+
+.rjLayout > h2 {
+  font-size: 2em;
+  margin: 10px 50px 10px 100px;
+  padding: 10px 50px 10px 100px;
+}
+
+div.rjLayout {
+  background-color: lightblue;
+}
+
+div.JanaeDiv {
+  background-color: lightgreen;
+}
+
+.JanaeDiv h1 {
+  color: deeppink;
+}
+
+.JanaeDiv img{
+  height: 94%;
+  width: 94%;
+}
+.teesaBox {
+  background-color: steelblue;
+}
+.teesaBox img {
+  width: 15%;
+  height: 15%;
+}
