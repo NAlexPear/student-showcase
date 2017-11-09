@@ -25,3 +25,10 @@
 .andrewDiv{
     background: crimson;
 }
+.teesaBox {
+  background-color: steelblue;
+}
+.teesaBox img {
+  width: 15%;
+  height: 15%;
+}
