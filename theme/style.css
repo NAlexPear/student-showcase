@@ -25,3 +25,16 @@
 .andrewDiv{
     background: crimson;
 }
+
+.JanaeDiv {
+  background-color: lightgreen;
+}
+
+.JanaeDiv h1 {
+  color: deeppink;
+}
+
+.JanaeDiv img{
+  height: 32%;
+  width: 32%;
+}
