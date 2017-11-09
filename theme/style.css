@@ -81,6 +81,17 @@
   display: block;
   width: 100%;
 }
+.MartinsDiv > h1 {
+  font-family: Verdana;
+  font-size: 2em;
+  color: blue;
+}
+.MartinsDiv > a {
+  font-family: Verdana;
+  font-size: 1em;
+  color: blue;
+  padding: 10px;
+}
 
 .rjLayout h1 {
   font-size: 4em;
