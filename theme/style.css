@@ -28,4 +28,12 @@
 
 
 # ohm {
-  background-color: blue; }
+  background-color: blue;
+  border: 2px;
+  text-align: justify;
+
+}
+# yia-yia{
+  width: 50%;
+  border: 2px;
+}
