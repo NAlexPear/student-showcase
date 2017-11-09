@@ -120,6 +120,16 @@ div.rjLayout {
   background-color: lightblue;
 }
 
+.leodiv > img {
+  display: block;
+  width: 100%;
+}
+
+.leodiv > div:nth-child(10){
+  background: red;
+  font-family: cursive;
+}
+
 div.JanaeDiv {
   background-color: lightgreen;
 }
