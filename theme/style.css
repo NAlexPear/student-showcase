@@ -24,4 +24,9 @@
 }
 .andrewDiv{
     background: crimson;
+    font-family: arial;
+}
+.content > div:nth-child(12){
+    background: crimson;
+
 }
