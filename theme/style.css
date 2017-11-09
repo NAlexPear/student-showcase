@@ -121,3 +121,10 @@ div.rjLayout {
   height: 32%;
   width: 32%;
 }
+.teesaBox {
+  background-color: steelblue;
+}
+.teesaBox img {
+  width: 15%;
+  height: 15%;
+}
