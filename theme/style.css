@@ -75,3 +75,30 @@
   display: block;
   width: 100%;
 }
+
+.rjLayout h1 {
+  font-size: 4em;
+  font-weight: 500;
+  font-style: oblique;
+  margin: 10px 50px 10px 100px;
+  padding: 10px 50px 10px 100px;
+  color: blue;
+}
+
+.rjLayout > img {
+  width: 50%;
+  height: auto;
+  margin: 10px 50px 10px 100px;
+  padding: 10px 50px 10px 100px;
+
+}
+
+.rjLayout > h2 {
+  font-size: 2em;
+  margin: 10px 50px 10px 100px;
+  padding: 10px 50px 10px 100px;
+}
+
+div.rjLayout {
+  background-color: lightblue;
+}
