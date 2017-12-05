@@ -176,11 +176,10 @@ div.rjLayout {
 }
 
 .leodiv > img {
-  display: block;
-  width: 100%;
+    width: 50%;
 }
 
-.leodiv > div:nth-child(10){
+.content > div:nth-child(10){
   background: red;
   font-family: cursive;
 }
