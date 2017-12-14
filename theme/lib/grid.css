@@ -1,13 +1,13 @@
 body {
   display: grid;
-  grid-template-rows: minmax(30vh, 1fr) 3fr;
+  grid-template-rows: 100vh auto;
   grid-template-areas: "header" "content";
-  grid-row-gap: 1rem;
+  width: 100vw;
+  overflow-x: hidden;
 }
 
 .content {
   display: grid;
-  grid-gap: 0.25rem;
 }
 
 .content>div {
@@ -17,7 +17,6 @@ body {
 @media (min-width: 415px) {
   .content {
     grid-template-columns: repeat(3, 1fr);
-    grid-auto-rows: minmax(50px, auto);
   }
   .content>div:first-child {
     grid-column: span 2;
@@ -36,27 +35,18 @@ body {
   .content>div:nth-child(6) {
     grid-row: 4 / span 2;
   }
-  .content>div:nth-child(7) {
-    grid-column: 1 / -1;
+
+  .content>div:nth-child(7){
+    grid-row: 6 / span 1;
   }
+
   .content>div:nth-child(8) {
-    grid-column: span 1;
-    grid-row: 7 / span 3;
+    grid-column: span 2;
   }
-  .content>div:nth-child(9), .content>div:nth-child(10) {
-    grid-row: 7 / span 2;
+  .content>div:nth-child(9) {
+    grid-column: span 3;
   }
-  .content>div:nth-child(11) {
-    grid-column: 2 / -1;
-  }
-  .content>div:nth-child(12) {
-    grid-row: 10 / span 2;
-  }
-  .content>div:nth-child(13) {
-    grid-row: 10 / span 2;
-    grid-column: 2 / -1;
-  }
-  .content>div:nth-child(14), .content>div:nth-child(15), .content>div:nth-child(16) {
-    grid-row: 12 / span 2;
+  .content>div:nth-child(10) {
+    grid-row: 8 / span 2;
   }
 }
