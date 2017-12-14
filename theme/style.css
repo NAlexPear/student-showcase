@@ -31,18 +31,47 @@
 }
 
 .kyle {
-  image-width: 100%; 
+  image-width: 100%;
 }
 
-#me{
-  background:url('http://thewallpaper.co/wp-content/uploads/2016/10/Amazing-Abstract-Pictures-HD-1080p-desktop-images-download-hd-free-windows-wallpaper-samsung-iphone-mac-1920x1080.jpg');
 
-}
 
 @-webkit-keyframes typing { from { width: 0; } }
 @-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
 
+#me {
+     animation: colorchange 10s  infinite;
+     -webkit-animation: colorchange 15s infinite;
+
+ 	
+ 	background-size:cover;
+ 	-moz-box-shadow:    inset 0 0 280px #000000;
+ 	-webkit-box-shadow: inset 0 0 280px #000000;
+ 	box-shadow:         inset 0 0 280px #000000;
+ }
+}
+   }
+
+   @keyframes colorchange
+   {
+     0%   {background: Baby Blue}
+     25%  {background: Blood Orange}
+     50%  {background: Blue-Gray;}
+     75%  {background: Violet;}
+     100% {background: Aqua;}
+   }
+
+   @-webkit-keyframes colorchange
+   {
+     0%   {background: Baby Blue;}
+     25%  {background: Blood Orange;}
+     50%  {background: Blue-Gray;}
+     75%  {background: Violet;}
+     100% {background: Aqua;}
+   }
+
 #jonai {
+  text-align:center;
   font-family: Josefin Slab;
 	border-right: .1em solid #848484;
 	width: calc(0.55em * 14);
@@ -53,28 +82,51 @@
 	           blink-caret .5s step-end infinite alternate;
 }
 #jonai {
-
-  font-family: Comic Sans MS;
+  padding:0;
+  font-family:Comic Sans MS;
   text-decoration:underline;
   color:hotpink;
   text-align:center;
 }
-
-#jpic {
-  width:30em;
-  float:center;
-  border-top:black 20em;
+#jonai{
+  font-family:"cursive";
+  color:black;
+  font-size:60px;
 
 }
- #j  {
+#Fa{
+  font-size:30px;
+  color:black;
 
-  font-family:Comic Sans MS;
-  text-align:center;
-  text-decoration:none;
-  border-radius:20px/20px;
-  border:100px purple;
-  background-color:purple;
-  font-size:10%;
+}
+#Fr:hover{
+  -webkit-animation: bounce 1s;
+  animation: bounce 1s;
+}
+#Fr{
+  font-size:30px;
+  color:black;
+}
+
+#Fa:hover {
+    -webkit-animation: bounce 1s;
+    animation: bounce 1s;
+}
+@font-face {
+font-family: "cursive";
+src: url("../fonts/cursive.ttf");
+font-style:normal;
+font-weight:100;
+}
+
+#jpri{
+  font-family: "cursive";
+  src: url("../fonts/cursive.ttf");
+  font-style:normal;
+  font-weight:100;
+  font-size:35px;
+  text-align: center;
+}
 
 }
 
