@@ -15,4 +15,30 @@
   text-align: center;
 }
 
+#jeffrey h1{
+  font-family: fantasy;
+}
+
+#jeffrey{
+ border-style:ridge;
+ background-color: 	#C0C0C0;
+}
+
+#jeffrey img{
+  border-style: groove;
+  border-spacing: 2em;
+}
+
+#jeffrey p{
+  font-size: 16px;
+  font-family: monospace;
+  color: white;
+
+}
+
+#jeffrey a{
+  text-decoration: none;
+  color: DodgerBlue;
+}
+
 /* style your grid sections here!  */
