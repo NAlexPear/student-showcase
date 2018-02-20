@@ -16,8 +16,53 @@
   font-family: 'Roboto Slab', serif;
   color: papayawhip;
   font-size: 300%;
-  color: white;
   text-shadow: 1px 3px 10px black;
 }
 
 /* style your grid sections here!  */
+
+/* Matthew Ricehouse Div */
+#matthewricehouse {
+  display: flex;
+  flex-direction: column;
+  background-color: papayawhip;
+  font-family: 'Roboto Slab', serif;
+  color: papayawhip;
+  font-size: 300%;
+  text-shadow: 1px 3px 10px black;
+}
+
+#matthewricehouse .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-image: url(https://i.ytimg.com/vi/aEr2Moh4vFo/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+#matthewricehouse .container h2 {
+  color: red;
+  text-align: center;
+  padding: 20px;
+  height: auto;
+  max-width: 50%;
+}
+
+#matthewricehouse .container .ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-around;
+  text-align: center;
+}
+
+#matthewricehouse .container .ul li {
+  border-radius: 20px;
+  border: 2px solid papayawhip;
+  padding: 10px;
+}
