@@ -41,4 +41,14 @@
   color: DodgerBlue;
 }
 
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+.container:hover .image{
+  opacity: 0.3;
+}
 /* style your grid sections here!  */
