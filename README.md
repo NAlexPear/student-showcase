@@ -9,3 +9,12 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 + Michael Kelly
 + Alex Pearson
 + Malcolm Johnson
++ Kiara Lewis
++ Celia Bourrage
++ Tony Bush
++ Stefan West
++ Jeffrey Williams
++ Dustin Brown
++ Marquis Patton
++ Matthew Ricehouse
++ Kevin Heinz
