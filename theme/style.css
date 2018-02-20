@@ -15,4 +15,10 @@
   text-align: center;
 }
 
+#dustin {
+  border-style: solid;
+  border-width: medium;
+  background-color: #778899;
+}
+
 /* style your grid sections here!  */
