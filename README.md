@@ -5,10 +5,14 @@ Today, you're going to help create a Student Showcase for you and your classmate
 
 Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
+<<<<<<< HEAD
 + Stefan West
 + Michael Kelly
 + Alex Pearson
 + Malcolm Johnson
+=======
++ Jasmine White
+>>>>>>> 534c266a3fbe52e4cfb3915a3846d4c5cc29d50c
 + Kiara Lewis
 + Celia Bourrage
 + Tony Bush

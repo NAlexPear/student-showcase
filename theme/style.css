@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  background-image: url(http://via.placeholder.com/450x150);
+  background-image: url(https://i.imgur.com/pYEIooC.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -13,6 +13,11 @@
   display: block;
   max-width: 750px;
   text-align: center;
+  font-family: 'Roboto Slab', serif;
+  color: papayawhip;
+  font-size: 300%;
+  color: white;
+  text-shadow: 1px 3px 10px black;
 }
 
 /* style your grid sections here!  */
