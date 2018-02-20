@@ -15,4 +15,5 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 + Michael Kelly
 + Alex Pearson
 + Malcolm Johnson
++ Matthew Ricehouse
 + Kevin Heinz
