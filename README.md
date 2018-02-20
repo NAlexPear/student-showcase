@@ -5,6 +5,15 @@ Today, you're going to help create a Student Showcase for you and your classmate
 
 Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
++ Stefan West 
++ Jeffrey Williams
++ Dustin Brown
++ Marquis Patton
++ Michael Kelly
 + Alex Pearson
 + Malcolm Johnson
+<<<<<<< HEAD
 + Matthew Ricehouse
+=======
++ Marquis Patton
+>>>>>>> 52317fb2c8ba529b34507ccd7531a11e32e47e8f
