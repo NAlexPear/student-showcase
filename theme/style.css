@@ -1,3 +1,4 @@
+
 .header {
   display: flex;
   flex-direction: column;
@@ -20,6 +21,8 @@
 }
 
 #jeffrey{
+ display: flex;
+ flex-wrap: wrap;
  border-style:ridge;
  background-color: 	#C0C0C0;
 }
