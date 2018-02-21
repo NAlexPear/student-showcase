@@ -35,7 +35,7 @@
 #matthewricehouse .container {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-end;
   background-image: url(https://i.ytimg.com/vi/aEr2Moh4vFo/maxresdefault.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -45,9 +45,7 @@
   padding: 20px;
 }
 
-#matthewricehouse .container h2 {
-  color: red;
-  text-align: center;
+#matthewricehouse .container h5 {
   padding: 20px;
   height: auto;
   max-width: 50%;

@@ -17,5 +17,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 + Alex Pearson
 + Malcolm Johnson
 + Matthew Ricehouse
-+ Marquis Patton
 + Kevin Heinz
