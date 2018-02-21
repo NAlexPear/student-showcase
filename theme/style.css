@@ -26,6 +26,7 @@ img {
 /* style your grid sections here!  */
 
 #matthewricehouse {
+  justify-content: center space-around;
   display: flex;
   flex-direction: column;
   background-color: papayawhip;
@@ -33,7 +34,6 @@ img {
   color: papayawhip;
   font-size: 300%;
   text-shadow: 1px 3px 10px black;
-  min-height: 790px;
 }
 
 #matthewricehouse .container {
@@ -44,22 +44,16 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  min-height: 750px;
   border-radius: 20px;
   padding: 20px;
-}
-
-#matthewricehouse .container h5 {
-  padding: 20px;
-  height: auto;
-  max-width: 50%;
+  min-width: 1750px;
+  min-height: 1750px;
 }
 
 #matthewricehouse .container ol {
   list-style: none;
   justify-content: space-around;
   text-align: left;
-  max-width: 35%;
 }
 
 #matthewricehouse .container ul {
