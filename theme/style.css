@@ -25,6 +25,18 @@ img {
 
 /* style your grid sections here!  */
 
+.deondre {
+  background-color: blue;
+}
+
+.mycontainer img {
+  max-width:30%;
+}
+
+.mycontactinfo li {
+  font: italic small-caps bold 16px/2 cursive;
+}
+
 #matthewricehouse {
   display: flex;
   flex-direction: column;
