@@ -1,3 +1,7 @@
+img {
+  width: 100%;
+}
+
 .header {
   display: flex;
   flex-direction: column;
@@ -22,8 +26,33 @@ img {
   width: 100%;
 }
 
-
 /* style your grid sections here!  */
+
+.Michael h1 {
+  text-align: center;
+  color: #336333;
+  font-family: inherit;
+  font-weight: bold;
+}
+
+.MikePic {
+  display: grid;
+  justify-content: center;
+}
+
+.MikeQuote h2 {
+  text-align: center;
+  color: #484747;
+  max-width: 750px;
+  display: block;
+  font-size: 1.5em;
+  font-style: italic;
+}
+
+.MikeEmail h3 {
+  text-align: center;
+  font-weight: lighter;
+}
 
 .twelve {
   display: flex;
