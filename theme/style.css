@@ -162,7 +162,7 @@ img {
 #matthewricehouse .container {
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: space-between;
   background-image: url(https://i.ytimg.com/vi/aEr2Moh4vFo/maxresdefault.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -172,17 +172,15 @@ img {
   height: 100vh;
 }
 
-#matthewricehouse .container ol {
-  list-style: none;
-  justify-content: space-around;
-  align-items: center;
+#matthewricehouse .container h5 {
+  text-align: center;
 }
 
 #matthewricehouse .container ul {
   display: flex;
   flex-direction: row;
   list-style: none;
-  justify-content: space-around;
+  justify-content: center space-between;
   text-align: center;
 }
 
