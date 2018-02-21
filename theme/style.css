@@ -332,3 +332,23 @@ img {
   background-color: #ff4079;
 
 }
+#Bala{
+  background-color: papayawhip;
+}
+ #Bala>h2{
+   color:red;
+   font-family: cursive;
+   background-color: darkgray;
+   align-items: center;
+   display: flex;
+   font-size: 30px;
+
+ }
+ h1{
+   color:purple;
+   align-items: center;
+ }
+li{
+  color:blue;
+  font-size: 20px;
+}
