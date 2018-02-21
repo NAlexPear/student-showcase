@@ -1,9 +1,13 @@
+img {
+  width: 100%;
+}
+
 .header {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  background-image: url(http://via.placeholder.com/450x150);
+  background-image: url(https://i.imgur.com/pYEIooC.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -13,6 +17,36 @@
   display: block;
   max-width: 750px;
   text-align: center;
+  font-family: 'Roboto Slab', serif;
+  color: papayawhip;
+  font-size: 300%;
+  color: white;
+  text-shadow: 1px 3px 10px black;
 }
+
+.Michael h1 {
+  text-align: center;
+  color: #336333;
+  font-family: inherit;
+  font-weight: bold;
+}
+.MikePic {}
+.MikeQuote h2 {
+  text-align: center;
+  color: #484747;
+  max-width: 750px;
+  display: block;
+  font-size: 1.5em;
+  font-style: italic;
+
+}
+.MikeEmail h3 {
+  text-align: center;
+  font-weight: lighter;
+}
+
+
+
+
 
 /* style your grid sections here!  */
