@@ -54,6 +54,10 @@ img {
   font-weight: lighter;
 }
 
+#MikeBackground {
+  background-color: orange;
+}
+
 .twelve {
   display: flex;
   align-items: center;
@@ -84,13 +88,16 @@ img {
   color: #fff;
 }
 
-.content > div:nth-child(6) {
+
+/* affecting michael's code */
+
+/*.content > div:nth-child(6) {
   border-style: hidden double dashed;
   font-style: oblique;
   font-size: 44px;
   background-color: darkcyan;
   color: tan;
-}
+}*/
 
 #CeCe > h1 {
   display: block;
