@@ -33,3 +33,7 @@ img {
 .mycontainer img {
   max-width:30%;
 }
+
+.mycontactinfo li {
+  font: italic small-caps bold 16px/2 cursive;
+}
