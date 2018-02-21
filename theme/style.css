@@ -20,4 +20,42 @@
   text-shadow: 1px 3px 10px black;
 }
 
+.twelve {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#twelve_content {
+  font-family: helvetica, arial, sans-serif;
+  color: #fff;
+}
+
+li {
+  text-align: left;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: #fff;
+}
+
+a:hover {
+  color: #000;
+}
+
+a:visited {
+  color: #fff;
+}
+
 /* style your grid sections here!  */
