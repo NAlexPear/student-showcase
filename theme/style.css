@@ -45,9 +45,11 @@ img {
 #CeCe > h3 {
   color: white;
   text-align: justify;
-  background-color: blue;
   background-position: center;
   margin: auto;
+}
+#CeCe {
+  background-color: blue;
 }
 
 .deondre {
