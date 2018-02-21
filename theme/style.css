@@ -36,3 +36,8 @@ img {
   background-color: black;
   padding: 50px;
 }
+
+#KevinBox img {
+  border-radius: 20px;
+  padding: 20px;
+}
