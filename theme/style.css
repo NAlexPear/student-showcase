@@ -43,7 +43,7 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 700px;
+  min-height: 750px;
   border-radius: 20px;
   padding: 20px;
 }
