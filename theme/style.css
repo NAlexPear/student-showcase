@@ -192,8 +192,16 @@ img {
 
 #KevinBox {
   display: flex;
+  flex-direction:column;
+  justify-content: flex-start;
   align-items: center;
+  color: white;
   text-align: center;
-  background-color: darkgray;
-  padding: 75px:
+  background-color: black;
+  padding: 50px;
+}
+
+#KevinBox img {
+  border-radius: 20px;
+  padding: 20px;
 }
