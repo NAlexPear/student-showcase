@@ -1,6 +1,3 @@
-img {
-  width: 100%;
-}
 
 .header {
   display: flex;
@@ -36,6 +33,7 @@ img {
   background-color: #696969;
   font-family: Sans-serif;
 }
+
 #dustin > img{
   height: 75%;
   width: 75%;
@@ -44,6 +42,47 @@ img {
   padding: 5px;
 }
 
+#jeffrey h1{
+  font-family: fantasy;
+}
+
+#jeffrey{
+ display: flex;
+ flex-wrap: wrap;
+ border-style:ridge;
+ background-color: 	#C0C0C0;
+}
+
+#jeffrey img{
+  border-style: groove;
+  border-spacing: 2em;
+  max-width: 100%
+  height: auto;
+}
+
+#jeffrey p{
+  font-size: 16px;
+  font-family: monospace;
+  color: white;
+
+}
+
+#jeffrey a{
+  text-decoration: none;
+  color: DodgerBlue;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+  text-align: center;
+}
+
+.container:hover .image{
+  opacity: 0.3;
+}
 /* style your grid sections here!  */
 
 .Michael h1 {
@@ -149,6 +188,7 @@ img {
 }
 
 #matthewricehouse {
+  justify-content: space-around;
   display: flex;
   flex-direction: column;
   background-color: papayawhip;
@@ -161,33 +201,31 @@ img {
 #matthewricehouse .container {
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: space-between;
   background-image: url(https://i.ytimg.com/vi/aEr2Moh4vFo/maxresdefault.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 500px;
   border-radius: 20px;
   padding: 20px;
+  height: 100vh;
 }
 
 #matthewricehouse .container h5 {
-  padding: 20px;
-  height: auto;
-  max-width: 50%;
-}
-
-#matthewricehouse .container .ul {
-  display: flex;
-  flex-direction: row;
-  list-style: none;
-  justify-content: space-around;
   text-align: center;
 }
 
-#matthewricehouse .container .ul li {
+#matthewricehouse .container ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: center space-between;
+  text-align: center;
+}
+
+#matthewricehouse .container ul li {
   border-radius: 20px;
-  border: 2px solid papayawhip;
+  border: 5px solid papayawhip;
   padding: 10px;
 }
 
@@ -294,5 +332,3 @@ img {
   background-color: #ff4079;
 
 }
-
-
