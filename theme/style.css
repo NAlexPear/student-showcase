@@ -1,3 +1,7 @@
+img {
+  width: 100%;
+}
+
 .header {
   display: flex;
   flex-direction: column;
@@ -14,16 +18,135 @@
   max-width: 750px;
   text-align: center;
   font-family: 'Roboto Slab', serif;
-  color: papayawhip;
+  color: white;
   font-size: 300%;
   text-shadow: 1px 3px 10px black;
 }
+
 
 img {
   width: 100%;
 }
 
+#dustin {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  object-fit: contain;
+  background-color: #696969;
+  font-family: Sans-serif;
+}
+#dustin > img{
+  height: 75%;
+  width: 75%;
+  border-radius: 25px;
+  border: 2px groove #000000;
+  padding: 5px;
+}
+
 /* style your grid sections here!  */
+
+.Michael h1 {
+  text-align: center;
+  color: #336333;
+  font-family: inherit;
+  font-weight: bold;
+}
+
+.MikePic {
+  display: grid;
+  justify-content: center;
+}
+
+.MikeQuote h2 {
+  text-align: center;
+  color: #484747;
+  max-width: 750px;
+  display: block;
+  font-size: 1.5em;
+  font-style: italic;
+}
+
+.MikeEmail h3 {
+  text-align: center;
+  font-weight: lighter;
+}
+
+.twelve {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#malcolm_ul li, h2 {
+  color: #fff;
+  text-align: left;
+  font-family: sans-serif;
+}
+
+#malcolm_avatar img {
+  max-width: 100%;
+  height: auto;
+}
+
+#malcolm_ul a {
+  color: #fff;
+}
+
+#malcolm_ul a:hover {
+  color: #000;
+}
+
+#malcolm_ul a:visited {
+  color: #fff;
+}
+
+.content > div:nth-child(6) {
+  border-style: hidden double dashed;
+  font-style: oblique;
+  font-size: 44px;
+  background-color: darkcyan;
+  color: tan;
+}
+
+#CeCe > h1 {
+  display: block;
+  max-width: 750px;
+  text-align: center;
+  margin: auto;
+}
+
+#CeCe > h2 {
+  font-style: italic;
+  font-family: cursive;
+  background-color: yellow;
+  color: red;
+  text-align: justify;
+  grid-row: auto;
+  display: block;
+  padding: inherit;
+}
+
+#CeCe > h3 {
+  color: white;
+  text-align: justify;
+  background-color: blue;
+  background-position: center;
+  margin: auto;
+}
+
+.deondre {
+  background-color: blue;
+}
+
+.mycontainer img {
+  max-width:30%;
+}
+
+.mycontactinfo li {
+  font: italic small-caps bold 16px/2 cursive;
+}
 
 #matthewricehouse {
   justify-content: space-around;
@@ -52,7 +175,7 @@ img {
 #matthewricehouse .container ol {
   list-style: none;
   justify-content: space-around;
-  text-align: left;
+  align-items: center;
 }
 
 #matthewricehouse .container ul {
@@ -71,8 +194,104 @@ img {
 
 #KevinBox {
   display: flex;
+  flex-direction:column;
+  justify-content: flex-start;
   align-items: center;
+  color: white;
   text-align: center;
-  background-color: darkgray;
-  padding: 75px:
+  background-color: black;
+  padding: 50px;
+}
+
+#KevinBox img {
+  border-radius: 20px;
+  padding: 20px;
+}
+
+/* Tonys section Div #1 */
+
+#Tony {
+  display: grid;
+  background-image: repeating-linear-gradient(#dbdbdb, black);
+  color: white;
+  font-family: sans-serif;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+}
+
+#Tony .container {
+  grid-template-rows: 1fr 20vh 10vh;
+
+}
+
+#Tony img {
+  max-width: 100vw;
+  min-width: 100px;
+
+}
+
+#Tony .container .header  {
+  display: grid;
+  grid-area: "header";
+  justify-content: center;
+  background-image: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/13417424_10209179131216694_84621357360596203_n.jpg?oh=9d5d0844566b186d500222c018209810&oe=5B0C83D5");
+  background-size: cover;
+  background-position: center;
+  height: 100vw;
+  width: 100vw;
+}
+
+#Tony .container div.header > h1 {
+  color: #ff4079;
+  font-size: 3em;
+  margin: 0;
+  padding: 0;
+}
+
+#Tony .container .qoute {
+  display: grid;
+  grid-area: "qoute";
+  justify-content: center;
+
+}
+
+#Tony .container div.contact {
+  display: grid;
+  grid-area: "content";
+
+}
+
+#Tony div.contact > ul  {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: row;
+  margin: 0 -5px;
+
+}
+
+#Tony div.contact a {
+  text-decoration: none;
+  color: White;
+}
+
+#Tony div.contact > ul > li  {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  justify-content: space-between;
+  align-self: center;
+  font-size: 1em;
+  background-color: #ff4079;
+}
+
+#Tony div.contact > ul > li :hover {
+  color: #ff4079;
+  font-size: 1.5em;
+}
+
+#Tony div.contact {
+  background-color: #ff4079;
+
 }
