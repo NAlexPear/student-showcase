@@ -1,7 +1,3 @@
-img {
-  width: 100%;
-}
-
 .header {
   display: flex;
   flex-direction: column;
@@ -23,6 +19,8 @@ img {
   color: white;
   text-shadow: 1px 3px 10px black;
 }
+
+/* delete this when finished! */
 
 img {
   max-width: 100%;
