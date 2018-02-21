@@ -9,18 +9,23 @@
   background-position: center;
 }
 
-.header h1 {
+#CeCe > h1 {
   display: block;
   max-width: 750px;
   text-align: center;
 
 }
 
-h2 {
+#CeCe > h2 {
   font-style: italic;
   font-family: cursive;
   background-color: yellow;
   font-color: red;
+}
+
+#CeCe > h3 {
+  font-style: oblique;
+  text-decoration-color: red;
 }
 
 /* style your grid sections here!  */
