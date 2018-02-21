@@ -25,3 +25,9 @@
   background-color: darkblue;
   padding: 50px;
 }
+
+
+#KevinBox img {
+  max-width: 100%;
+  /*max-height: 100%;*/
+}
