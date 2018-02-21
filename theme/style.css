@@ -24,6 +24,7 @@
   font-color: red;
   text-align: justify;
   grid-row: auto;
+  display: block;
 }
 
 #CeCe > h3 {
@@ -31,7 +32,8 @@
   text-decoration-color: red;
   text-align: justify;
   background-color: blue;
-  background-position: center;  
+  background-position: center;
+  display: block;
 }
 
 /* style your grid sections here!  */
