@@ -1,4 +1,4 @@
-.header {
+.KLHeader {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -9,15 +9,17 @@
   background-position: center;
 }
 
-.header h1 {
-  display: block;
-  max-width: 750px;
-  text-align: center;
-  font-family: 'Roboto Slab', serif;
-  color: papayawhip;
-  font-size: 300%;
-  color: white;
-  text-shadow: 1px 3px 10px black;
+
+#kl {
+display: block;
+max-width: 400px;
+text-align: center;
+font-family: 'Roboto Slab', serif;
+color: papayawhip;
+font-size: 300%;
+color: white;
+text-shadow: 1px 3px 10px black;
+background-color: black;
 }
 
 /* style your grid sections here!  */
