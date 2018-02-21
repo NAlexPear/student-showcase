@@ -5,16 +5,14 @@ Today, you're going to help create a Student Showcase for you and your classmate
 
 Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
++ Stefan West
 + Jasmine White
 + Kiara Lewis
 + Celia Bourrage
 + Tony Bush
-+ Stefan West
 + Jeffrey Williams
 + Dustin Brown
 + Marquis Patton
-+ Michael Kelly
-+ Alex Pearson
-+ Malcolm Johnson
 + Matthew Ricehouse
 + Kevin Heinz
++ Bala
