@@ -27,5 +27,9 @@ img {
 /* style your grid sections here!  */
 
 .Deondre {
-  
+  background-color: blue;
+}
+
+.mycontainer img {
+  max-width:30%;
 }
