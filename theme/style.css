@@ -14,6 +14,7 @@
   max-width: 750px;
   text-align: center;
   grid-column: auto;
+  margin: auto;
 
 }
 
@@ -25,6 +26,7 @@
   text-align: justify;
   grid-row: auto;
   display: block;
+  padding: inherit;
 }
 
 #CeCe > h3 {
@@ -34,6 +36,7 @@
   background-color: blue;
   background-position: center;
   display: block;
+  margin: auto;
 }
 
 /* style your grid sections here!  */
