@@ -31,34 +31,26 @@ img {
   justify-content: center;
 }
 
-h2 {
-  text-align: center;
+#malcolm_ul li, h2 {
+  color: #fff;
+  text-align: left;
   font-family: sans-serif;
 }
 
-#twelve_content {
-  font-family: helvetica, arial, sans-serif;
-  color: #fff;
-}
-
-li {
-  text-align: left;
-}
-
-img {
+#malcolm_avatar img {
   max-width: 100%;
   height: auto;
 }
 
-a {
+#malcolm_ul a {
   color: #fff;
 }
 
-a:hover {
+#malcolm_ul a:hover {
   color: #000;
 }
 
-a:visited {
+#malcolm_ul a:visited {
   color: #fff;
 }
 
