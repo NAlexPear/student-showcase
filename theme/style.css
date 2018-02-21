@@ -1,3 +1,7 @@
+img {
+  width: 100%;
+}
+
 .header {
   display: flex;
   flex-direction: column;
@@ -13,7 +17,7 @@
   max-width: 750px;
   text-align: center;
   font-family: 'Roboto Slab', serif;
-  color: papayawhip;
+  color: white;
   font-size: 300%;
   text-shadow: 1px 3px 10px black;
 }
@@ -23,6 +27,70 @@ img {
 }
 
 /* style your grid sections here!  */
+
+.Michael h1 {
+  text-align: center;
+  color: #336333;
+  font-family: inherit;
+  font-weight: bold;
+}
+
+.MikePic {
+  display: grid;
+  justify-content: center;
+}
+
+.MikeQuote h2 {
+  text-align: center;
+  color: #484747;
+  max-width: 750px;
+  display: block;
+  font-size: 1.5em;
+  font-style: italic;
+}
+
+.MikeEmail h3 {
+  text-align: center;
+  font-weight: lighter;
+}
+
+.twelve {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#malcolm_ul li, h2 {
+  color: #fff;
+  text-align: left;
+  font-family: sans-serif;
+}
+
+#malcolm_avatar img {
+  max-width: 100%;
+  height: auto;
+}
+
+#malcolm_ul a {
+  color: #fff;
+}
+
+#malcolm_ul a:hover {
+  color: #000;
+}
+
+#malcolm_ul a:visited {
+  color: #fff;
+}
+
+.content > div:nth-child(6) {
+  border-style: hidden double dashed;
+  font-style: oblique;
+  font-size: 44px;
+  background-color: darkcyan;
+  color: tan;
+}
 
 #CeCe > h1 {
   display: block;
