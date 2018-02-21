@@ -13,6 +13,7 @@
   display: block;
   max-width: 750px;
   text-align: center;
+  grid-column: auto;
 
 }
 
@@ -21,11 +22,16 @@
   font-family: cursive;
   background-color: yellow;
   font-color: red;
+  text-align: justify;
+  grid-row: auto;
 }
 
 #CeCe > h3 {
   font-style: oblique;
   text-decoration-color: red;
+  text-align: justify;
+  background-color: blue;
+  background-position: center;  
 }
 
 /* style your grid sections here!  */
