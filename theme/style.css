@@ -22,7 +22,39 @@ img {
   width: 100%;
 }
 
+
 /* style your grid sections here!  */
+
+.twelve {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#malcolm_ul li, h2 {
+  color: #fff;
+  text-align: left;
+  font-family: sans-serif;
+}
+
+#malcolm_avatar img {
+  max-width: 100%;
+  height: auto;
+}
+
+#malcolm_ul a {
+  color: #fff;
+}
+
+#malcolm_ul a:hover {
+  color: #000;
+}
+
+#malcolm_ul a:visited {
+  color: #fff;
+}
+
 .content > div:nth-child(6) {
   border-style: hidden double dashed;
   font-style: oblique;
