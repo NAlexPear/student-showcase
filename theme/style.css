@@ -33,6 +33,7 @@ img {
   color: papayawhip;
   font-size: 300%;
   text-shadow: 1px 3px 10px black;
+  min-height: 790px;
 }
 
 #matthewricehouse .container {
