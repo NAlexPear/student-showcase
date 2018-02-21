@@ -19,9 +19,12 @@
   text-shadow: 1px 3px 10px black;
 }
 
+img {
+  width: 100%;
+}
+
 /* style your grid sections here!  */
 
-/* Matthew Ricehouse Div */
 #matthewricehouse {
   display: flex;
   flex-direction: column;
