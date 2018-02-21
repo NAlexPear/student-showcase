@@ -3,18 +3,32 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  background-image: url(http://via.placeholder.com/450x150);
+  background-image: url(https://i.imgur.com/pYEIooC.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
+
+.header h1 {
+  max-width: 750px;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  color: papayawhip;
+  font-size: 300%;
+  text-shadow: 1px 3px 10px black;
+}
+
+img {
+  width: 100%;
+}
+
+/* style your grid sections here!  */
 
 #CeCe > h1 {
   display: block;
   max-width: 750px;
   text-align: center;
   margin: auto;
-
 }
 
 #CeCe > h2 {
@@ -38,4 +52,65 @@
   margin: auto;
 }
 
-/* style your grid sections here!  */
+.deondre {
+  background-color: blue;
+}
+
+.mycontainer img {
+  max-width:30%;
+}
+
+.mycontactinfo li {
+  font: italic small-caps bold 16px/2 cursive;
+}
+
+#matthewricehouse {
+  display: flex;
+  flex-direction: column;
+  background-color: papayawhip;
+  font-family: 'Roboto Slab', serif;
+  color: papayawhip;
+  font-size: 300%;
+  text-shadow: 1px 3px 10px black;
+}
+
+#matthewricehouse .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-image: url(https://i.ytimg.com/vi/aEr2Moh4vFo/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+#matthewricehouse .container h5 {
+  padding: 20px;
+  height: auto;
+  max-width: 50%;
+}
+
+#matthewricehouse .container .ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-around;
+  text-align: center;
+}
+
+#matthewricehouse .container .ul li {
+  border-radius: 20px;
+  border: 2px solid papayawhip;
+  padding: 10px;
+}
+
+#KevinBox {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  background-color: darkgray;
+  padding: 75px:
+}
