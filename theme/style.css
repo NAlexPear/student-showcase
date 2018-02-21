@@ -149,6 +149,7 @@ img {
 }
 
 #matthewricehouse {
+  justify-content: space-around;
   display: flex;
   flex-direction: column;
   background-color: papayawhip;
@@ -161,33 +162,31 @@ img {
 #matthewricehouse .container {
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: space-between;
   background-image: url(https://i.ytimg.com/vi/aEr2Moh4vFo/maxresdefault.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 500px;
   border-radius: 20px;
   padding: 20px;
+  height: 100vh;
 }
 
 #matthewricehouse .container h5 {
-  padding: 20px;
-  height: auto;
-  max-width: 50%;
-}
-
-#matthewricehouse .container .ul {
-  display: flex;
-  flex-direction: row;
-  list-style: none;
-  justify-content: space-around;
   text-align: center;
 }
 
-#matthewricehouse .container .ul li {
+#matthewricehouse .container ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: center space-between;
+  text-align: center;
+}
+
+#matthewricehouse .container ul li {
   border-radius: 20px;
-  border: 2px solid papayawhip;
+  border: 5px solid papayawhip;
   padding: 10px;
 }
 
@@ -294,5 +293,3 @@ img {
   background-color: #ff4079;
 
 }
-
-
