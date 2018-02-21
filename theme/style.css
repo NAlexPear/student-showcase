@@ -40,3 +40,23 @@ img {
   font: italic; bold;
   color: green;
 }
+
+h2{
+  color: yellow;
+}
+
+h3 {
+  color: red;
+  font: italic; bold;
+
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  
+
+}
+#stefan {
+  background-color: goldenrod;
+}
