@@ -20,9 +20,8 @@
 
 
 #KevinBox {
-  display: flex;
   align-items: center;
   text-align: center;
-  background-color: darkgray;
-  padding: 75px:
+  background-color: darkblue;
+  padding: 50px;
 }
