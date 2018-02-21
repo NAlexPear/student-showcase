@@ -30,7 +30,10 @@ img {
   font-family: inherit;
   font-weight: bold;
 }
-.MikePic {}
+.MikePic {
+  display: grid;
+  justify-content: center;
+}
 .MikeQuote h2 {
   text-align: center;
   color: #484747;
