@@ -18,14 +18,8 @@
 /* style your grid sections here!  */
 .content > div:nth-child(6) {
   border-style: hidden double dashed;
-  font-style: oblique;nt-family:Helvetica;
-  font-size:44px;
-  background-color:darkcyan;
-  font-color:tan
-
-
-}
-
-#Jasmine {
-
+  font-style: oblique;
+  font-size: 44px;
+  background-color: darkcyan;
+  color: tan;
 }
