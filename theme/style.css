@@ -40,7 +40,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 500px;
+  height: 700px;
   border-radius: 20px;
   padding: 20px;
 }
@@ -51,7 +51,14 @@
   max-width: 50%;
 }
 
-#matthewricehouse .container .ul {
+#matthewricehouse .container ol {
+  list-style: none;
+  justify-content: space-around;
+  text-align: left;
+  max-width: 35%;
+}
+
+#matthewricehouse .container ul {
   display: flex;
   flex-direction: row;
   list-style: none;
@@ -59,9 +66,9 @@
   text-align: center;
 }
 
-#matthewricehouse .container .ul li {
+#matthewricehouse .container ul li {
   border-radius: 20px;
-  border: 2px solid papayawhip;
+  border: 5px solid papayawhip;
   padding: 10px;
 }
 
