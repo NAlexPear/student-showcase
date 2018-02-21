@@ -11,8 +11,16 @@
 
 .header h1 {
   display: block;
-  max-width: 750px;
+width: 750px;
   text-align: center;
 }
 
 /* style your grid sections here!  */
+.content > div:nth-child(6) {
+border-style: hidden double dashed;
+font-family:Helvetica;
+font-size:44px;
+background-color:darkcyan;
+
+
+}
