@@ -14,7 +14,6 @@ img {
 }
 
 .header h1 {
-  display: block;
   max-width: 750px;
   text-align: center;
   font-family: 'Roboto Slab', serif;
@@ -23,25 +22,8 @@ img {
   text-shadow: 1px 3px 10px black;
 }
 
-
 img {
   width: 100%;
-}
-
-#dustin {
-  display: flex;
-  flex-flow: column wrap;
-  align-items: center;
-  object-fit: contain;
-  background-color: #696969;
-  font-family: Sans-serif;
-}
-#dustin > img{
-  height: 75%;
-  width: 75%;
-  border-radius: 25px;
-  border: 2px groove #000000;
-  padding: 5px;
 }
 
 /* style your grid sections here!  */
@@ -70,6 +52,10 @@ img {
 .MikeEmail h3 {
   text-align: center;
   font-weight: lighter;
+}
+
+#MikeBackground {
+  background-color: orange;
 }
 
 .twelve {
@@ -102,13 +88,16 @@ img {
   color: #fff;
 }
 
-.content > div:nth-child(6) {
+
+/* affecting michael's code */
+
+/*.content > div:nth-child(6) {
   border-style: hidden double dashed;
   font-style: oblique;
   font-size: 44px;
   background-color: darkcyan;
   color: tan;
-}
+}*/
 
 #CeCe > h1 {
   display: block;
@@ -121,7 +110,7 @@ img {
   font-style: italic;
   font-family: cursive;
   background-color: yellow;
-  color: red;
+  font-color: red;
   text-align: justify;
   grid-row: auto;
   display: block;
@@ -129,10 +118,12 @@ img {
 }
 
 #CeCe > h3 {
-  color: white;
+  font-style: oblique;
+  text-decoration-color: red;
   text-align: justify;
   background-color: blue;
   background-position: center;
+  display: block;
   margin: auto;
 }
 
@@ -193,106 +184,8 @@ img {
 
 #KevinBox {
   display: flex;
-  flex-direction:column;
-  justify-content: flex-start;
   align-items: center;
-  color: white;
   text-align: center;
-  background-color: black;
-  padding: 50px;
+  background-color: darkgray;
+  padding: 75px:
 }
-
-#KevinBox img {
-  border-radius: 20px;
-  padding: 20px;
-}
-
-/* Tonys section Div #1 */
-
-#Tony {
-  display: grid;
-  background-image: repeating-linear-gradient(#dbdbdb, black);
-  color: white;
-  font-family: sans-serif;
-  width: 100vw;
-  padding: 0;
-  margin: 0;
-}
-
-#Tony .container {
-  grid-template-rows: 1fr 20vh 10vh;
-
-}
-
-#Tony img {
-  max-width: 100vw;
-  min-width: 100px;
-
-}
-
-#Tony .container .header  {
-  display: grid;
-  grid-area: "header";
-  justify-content: center;
-  background-image: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/13417424_10209179131216694_84621357360596203_n.jpg?oh=9d5d0844566b186d500222c018209810&oe=5B0C83D5");
-  background-size: cover;
-  background-position: center;
-  height: 100vw;
-  width: 100vw;
-}
-
-#Tony .container div.header > h1 {
-  color: #ff4079;
-  font-size: 3em;
-  margin: 0;
-  padding: 0;
-}
-
-#Tony .container .qoute {
-  display: grid;
-  grid-area: "qoute";
-  justify-content: center;
-
-}
-
-#Tony .container div.contact {
-  display: grid;
-  grid-area: "content";
-
-}
-
-#Tony div.contact > ul  {
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
-  flex-direction: row;
-  margin: 0 -5px;
-
-}
-
-#Tony div.contact a {
-  text-decoration: none;
-  color: White;
-}
-
-#Tony div.contact > ul > li  {
-  display: block;
-  width: 100%;
-  padding: 10px;
-  justify-content: space-between;
-  align-self: center;
-  font-size: 1em;
-  background-color: #ff4079;
-}
-
-#Tony div.contact > ul > li :hover {
-  color: #ff4079;
-  font-size: 1.5em;
-}
-
-#Tony div.contact {
-  background-color: #ff4079;
-
-}
-
-
