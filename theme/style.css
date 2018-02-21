@@ -19,29 +19,3 @@
   color: white;
   text-shadow: 1px 3px 10px black;
 }
-
-/* delete this when finished! */
-
-img {
-  max-width: 100%;
-  max-height: 100%;
-}
-
-/* style your grid sections here!  */
-.image{
-  height:100%;
-
-}
-h1{
-  color: green; font-family: fantasy; bold; italic;
-
-}
-
-h2{
-  color: red; font-family: fantasy; bold; italic;
-
-}
-h3{
-  font-family: fantasy; bold; italic;
-
-}
