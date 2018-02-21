@@ -23,6 +23,13 @@ img {
 }
 
 /* style your grid sections here!  */
+.content > div:nth-child(6) {
+  border-style: hidden double dashed;
+  font-style: oblique;
+  font-size: 44px;
+  background-color: darkcyan;
+  color: tan;
+}
 
 #CeCe > h1 {
   display: block;
