@@ -52,6 +52,14 @@ img {
   background-color: blue;
 }
 
+#CeCe a {
+  color:white;
+}
+
+#CeCe a:hover {
+  color: red;
+}
+
 .deondre {
   background-color: blue;
 }
