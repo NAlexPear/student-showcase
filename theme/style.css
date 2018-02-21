@@ -1,7 +1,3 @@
-img {
-  width: 100%;
-}
-
 .header {
   display: flex;
   flex-direction: column;
@@ -14,15 +10,20 @@ img {
 }
 
 .header h1 {
-  display: block;
   max-width: 750px;
   text-align: center;
   font-family: 'Roboto Slab', serif;
   color: papayawhip;
   font-size: 300%;
-  color: white;
   text-shadow: 1px 3px 10px black;
 }
+
+img {
+  width: 100%;
+}
+
+
+/* style your grid sections here!  */
 
 .twelve {
   display: flex;
@@ -54,9 +55,96 @@ img {
   color: #fff;
 }
 
-/* style your grid sections here!  */
+.content > div:nth-child(6) {
+  border-style: hidden double dashed;
+  font-style: oblique;
+  font-size: 44px;
+  background-color: darkcyan;
+  color: tan;
+}
 
+#CeCe > h1 {
+  display: block;
+  max-width: 750px;
+  text-align: center;
+  margin: auto;
+}
 
+#CeCe > h2 {
+  font-style: italic;
+  font-family: cursive;
+  background-color: yellow;
+  font-color: red;
+  text-align: justify;
+  grid-row: auto;
+  display: block;
+  padding: inherit;
+}
+
+#CeCe > h3 {
+  font-style: oblique;
+  text-decoration-color: red;
+  text-align: justify;
+  background-color: blue;
+  background-position: center;
+  display: block;
+  margin: auto;
+}
+
+.deondre {
+  background-color: blue;
+}
+
+.mycontainer img {
+  max-width:30%;
+}
+
+.mycontactinfo li {
+  font: italic small-caps bold 16px/2 cursive;
+}
+
+#matthewricehouse {
+  display: flex;
+  flex-direction: column;
+  background-color: papayawhip;
+  font-family: 'Roboto Slab', serif;
+  color: papayawhip;
+  font-size: 300%;
+  text-shadow: 1px 3px 10px black;
+}
+
+#matthewricehouse .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-image: url(https://i.ytimg.com/vi/aEr2Moh4vFo/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+#matthewricehouse .container h5 {
+  padding: 20px;
+  height: auto;
+  max-width: 50%;
+}
+
+#matthewricehouse .container .ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-around;
+  text-align: center;
+}
+
+#matthewricehouse .container .ul li {
+  border-radius: 20px;
+  border: 2px solid papayawhip;
+  padding: 10px;
+}
 
 #KevinBox {
   display: flex;
