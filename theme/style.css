@@ -16,3 +16,15 @@
 }
 
 /* style your grid sections here!  */
+#Jennifer > img {
+  border-style: none;
+  width: 100px;
+}
+#Jennifer  h1 {
+  font-size: 2em;
+  color: white;
+  font-style: oblique;
+}
+#Jennifer {
+  background-color: Orchid;
+}
