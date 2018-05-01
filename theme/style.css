@@ -20,31 +20,45 @@
 /* style your grid sections here!  */
 
 /* Tyler's style (box 4) */
+#tkbox {
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    font-family: garamond;
+}
 
-#imgformat {
+#tkbox img {
   width: 75%;
   margin: 0 auto;
   display: flex;
   top: 0;
   align-content: flex-start;
+  align-items: flex-start;
   justify-content: center;
 }
-
-#tkbox {
-    display: flex;
-    margin: 0;
-    align-content: flex-end;
-    justify-content: center;
-    align-items: flex-end;
-    flex-wrap: wrap;
-
-}
-
-
 
 #tkbox > div {
-  align-content: center;
+  align-items: flex-end;
   justify-content: center;
   flex-wrap: wrap;
-  padding: 5%;
+}
+
+#tkbox h1 {
+  background-color: papayawhip;
+  width: 100%;
+  justify-content: center;
+}
+
+#tkbox h2 {
+  font-style: italic;
+}
+
+#tkbox li {
+  font-weight: bold;
+}
+
+#tkbox a:hover {
+  color: white;
 }
