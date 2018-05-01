@@ -28,3 +28,12 @@
 #Jennifer {
   background-color: Orchid;
 }
+#Jennifer > ul {
+  color: black;
+}
+#Jennifer > li {
+  color: black;
+}
+#Jennifer a {
+  color: black;
+}
