@@ -27,6 +27,7 @@
     align-items: flex-end;
     flex-wrap: wrap;
     font-family: garamond;
+    background-color: wheat;
 }
 
 #tkbox img {
@@ -43,10 +44,10 @@
   align-items: flex-end;
   justify-content: center;
   flex-wrap: wrap;
+  background-color: white;
 }
 
 #tkbox h1 {
-  background-color: papayawhip;
   width: 100%;
   justify-content: center;
 }
@@ -60,7 +61,8 @@
 }
 
 #tkbox a:hover {
-  color: white;
+  color: crimson;
+  font-size: 20px;
 }
 
 .content div:nth-child(6) {
