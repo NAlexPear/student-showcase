@@ -18,3 +18,6 @@
   width: 100px;
 }
 /* style your grid sections here!  */
+.content div:nth-child(6) {
+  background-color: papayawhip;
+}
