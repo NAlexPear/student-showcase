@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  background-image: url(http://via.placeholder.com/450x150);
+  background-image: url(https://i.imgur.com/LBeJiOe.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -14,7 +14,9 @@
   max-width: 750px;
   text-align: center;
 }
-
+.img {
+  width: 100px;
+}
 /* style your grid sections here!  */
 
 .ashlea {
@@ -40,5 +42,8 @@
 
 .list li a {
   color: green;
+}
 
+.content div:nth-child(6) {
+  background-color: papayawhip;
 }
