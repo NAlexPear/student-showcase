@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 .header {
   display: flex;
   flex-direction: column;
@@ -14,5 +15,16 @@
   max-width: 750px;
   text-align: center;
 }
-
+#Photo{
+  width: 200px;
+}
+.content {
+  background color: #228b22;
+  color: white;
+  font-family: 'Permanent Marker';
+  text-align: center;
+}
+h2{
+  color: Green;
+}
 /* style your grid sections here!  */
