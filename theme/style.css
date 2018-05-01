@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  background-image: url(http://via.placeholder.com/450x150);
+  background-image: url(https://i.imgur.com/LBeJiOe.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -14,34 +14,34 @@
   max-width: 750px;
   text-align: center;
 }
-
+.img {
+  width: 100px;
+}
 /* style your grid sections here!  */
-
 
 div.ten {
   border: 5px solid #ceddd6;
   text-align: center;
   color: #666666;
   font-family: 'Raleway', sans-serif;
-
+  text-transform: capitalize;
 }
 
 .ten {
   background-image: url("/theme/seigaiha.png");
   background-position: center;
   background-size: cover;
-  z-index: -1;
 }
 
 div.ten h2 {
+  font-size: 30px;
   font-weight: 900;
   color: #c9bfd3;
-  text-transform: lowercase;
 }
 
 div.ten ul li {
+  font-size: 20px;
   font-weight: 900;
-  text-transform: capitalize;
   display: inline;
 }
 
