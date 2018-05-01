@@ -5,16 +5,15 @@ Today, you're going to help create a Student Showcase for you and your classmate
 
 Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
-+ Kyle Jennings
-+ Leo Vinson
-+ Andrew Turnage
-+ Teesa Alaniz
-+ Jonai Whitehorn
-+ Brandon Dorsey
-+ Nick Gartelos
-+ Martin Holloway
-+ Danielle Snyder
-+ Ramona Jones
-+ Meagan Barbeau
+### Contributors
+
++ Ashlea Swindell
++ Allan Caprola
++ Sidney Buckner
++ Jake Pelech
++ Tyler Krszjzaniek
++ James Rentchler
++ Jennifer Fisher
++ Drew Roby
 + Alex Pearson
-+ Janae C. Johnson
++ Zoey Snyder
