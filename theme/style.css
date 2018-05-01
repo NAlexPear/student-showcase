@@ -15,4 +15,22 @@
   text-align: center;
 }
 
+div.ten {
+  background-color: #ecf2ef;
+  text-align: center;
+  color: #8d918f;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+div.ten h2 {
+  color: #c9bfd3;
+
+}
+
+div.ten img {
+  width: 57%;
+  border: 5px solid #ced6dd;
+}
+
 /* style your grid sections here!  */
