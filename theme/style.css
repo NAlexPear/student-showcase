@@ -15,4 +15,23 @@
   text-align: center;
 }
 
+#Jake {
+  color: #083c44;
+  background-color: #070e0f;
+  max-width: 300px;
+}
+#image {
+  display: flex;
+  width: 70%;
+  max-width: 250px;
+  margin: 10px;
+  align-content: center;
+}
+#Jake > h1{
+  text-align:center;
+}
+.slogan{
+  font-family: cursive;
+}
+
 /* style your grid sections here!  */
