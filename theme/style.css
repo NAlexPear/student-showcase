@@ -38,6 +38,7 @@
   background-color: yellow;
 }
 
-ul li a {
+.list li a {
   color: green;
+
 }
