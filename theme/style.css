@@ -15,22 +15,37 @@
   text-align: center;
 }
 
+/* style your grid sections here!  */
+
+
 div.ten {
-  background-color: #ecf2ef;
+  border: 5px solid #ceddd6;
   text-align: center;
-  color: #8d918f;
+  color: #666666;
   font-family: 'Raleway', sans-serif;
 
 }
 
-div.ten h2 {
-  color: #c9bfd3;
+.ten {
+  background-image: url("/theme/seigaiha.png");
+  background-position: center;
+  background-size: cover;
+  z-index: -1;
+}
 
+div.ten h2 {
+  font-weight: 900;
+  color: #c9bfd3;
+  text-transform: lowercase;
+}
+
+div.ten ul li {
+  font-weight: 900;
+  text-transform: capitalize;
+  display: inline;
 }
 
 div.ten img {
   width: 57%;
-  border: 5px solid #ced6dd;
+  border: 5px solid #ceddd6;
 }
-
-/* style your grid sections here!  */
