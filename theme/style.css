@@ -16,3 +16,28 @@
 }
 
 /* style your grid sections here!  */
+
+.ashlea {
+  display: flex;
+  background-color: purple;
+  color: white;
+  position: relative;
+  font-family: 'oswald';
+  font-weight: bold;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  }
+
+.list {
+  list-style: none;
+}
+
+.list a:hover {
+  background-color: yellow;
+}
+
+ul li a {
+  color: green;
+}
