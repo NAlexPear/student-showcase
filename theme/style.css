@@ -14,7 +14,9 @@
   max-width: 750px;
   text-align: center;
 }
-
+.img {
+  width: 100px;
+}
 /* style your grid sections here!  */
 
 /* Tyler's style (box 4) */
