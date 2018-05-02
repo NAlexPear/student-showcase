@@ -34,6 +34,7 @@ div.ten {
 }
 
 div.ten h2 {
+  margin: 10px;
   font-size: 30px;
   font-weight: 900;
   color: #c9bfd3;
