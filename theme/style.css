@@ -20,6 +20,37 @@ img {
 }
 /* style your grid sections here!  */
 
+#ashlea {
+  display: flex;
+  background-color: #E00C78;
+  color: #9DF20C;
+  font-family: 'oswald';
+  font-weight: bold;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  display: block;
+  padding: 5px;
+  text-align: center;
+  }
+
+.list {
+  list-style: none;
+}
+
+.list a:hover {
+  background-color: yellow;
+}
+
+.list li a {
+  color: #0BB1B9;
+}
+
+.ashleaspic {
+  width: 300px;
+}
+
 #Jake {
   color:#070e0f ;
   background-color:#61ABA6;
