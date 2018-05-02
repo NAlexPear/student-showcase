@@ -16,22 +16,32 @@
 }
 
 #Jake {
-  color: #083c44;
-  background-color: #070e0f;
-  max-width: 300px;
+  color:#070e0f ;
+  background-color:#61ABA6;
+  max-width: 400px;
+  margin: auto;
 }
 #image {
-  display: flex;
+  display: block;
   width: 70%;
   max-width: 250px;
   margin: 10px;
   align-content: center;
+  margin-left: 30px;
+  border-style: inset;
 }
 #Jake > h1{
   text-align:center;
+  font-family: "Comic Sans MS", cursive, sans-serif
 }
 .slogan{
   font-family: cursive;
-}
+  font-weight: bold;
+  }
+  #contacts{
+    display: flex;
+    border-style: dashed;
+    justify-content: space-between;
+  }
 
 /* style your grid sections here!  */
