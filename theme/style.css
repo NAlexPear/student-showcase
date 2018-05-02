@@ -18,6 +18,27 @@
   width: 100px;
 }
 /* style your grid sections here!  */
+#Jennifer > img {
+  border-style: none;
+  width: 100px;
+}
+#Jennifer  h1 {
+  font-size: 2em;
+  color: white;
+  font-style: oblique;
+}
+#Jennifer {
+  background-color: Orchid;
+}
+#Jennifer > ul {
+  color: black;
+}
+#Jennifer > li {
+  color: black;
+}
+#Jennifer a {
+  color: black;
+}
 
 /* Tyler's style (box 4) */
 #tkbox {
