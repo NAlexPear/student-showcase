@@ -9,10 +9,50 @@
   background-position: center;
 }
 
+
+
 .header h1 {
   display: block;
   max-width: 750px;
   text-align: center;
 }
+
+img {
+    width: 40%;
+    margin: 20px auto;
+    display: block;
+    max-width: 350px
+}
+
+img {
+  border-radius: 8px;
+}
+
+li {
+  background: linear-gradient(to bottom, #000066 0%, #cc0000 100%);
+}
+ul {
+  font-family: helvetica neue;
+  color: white;
+}
+
+#Allan {
+  background: linear-gradient(to bottom, #000066 0%, #cc0000 100%);
+}
+
+#Allan {
+  font-family: helvetica neue;
+  color: white;
+}
+
+h1 {
+  position: static;
+}
+
+div {
+  font-family: helvetica neue;
+  color: #421111;
+}
+
 
 /* style your grid sections here!  */
