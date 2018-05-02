@@ -67,6 +67,33 @@
   font-size: 17px;
 }
 
-.content div:nth-child(6) {
-  background-color: papayawhip;
+div.ten {
+  border: 5px solid #ceddd6;
+  text-align: center;
+  color: #666666;
+  font-family: 'Raleway', sans-serif;
+  text-transform: capitalize;
+}
+
+.ten {
+  background-image: url("/theme/seigaiha.png");
+  background-position: center;
+  background-size: cover;
+}
+
+div.ten h2 {
+  font-size: 30px;
+  font-weight: 900;
+  color: #c9bfd3;
+}
+
+div.ten ul li {
+  font-size: 20px;
+  font-weight: 900;
+  display: inline;
+}
+
+div.ten img {
+  width: 57%;
+  border: 5px solid #ceddd6;
 }
