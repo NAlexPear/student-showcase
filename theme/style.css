@@ -14,8 +14,9 @@
   max-width: 750px;
   text-align: center;
 }
-.img {
-  width: 100px;
+
+img {
+  width: 100%;
 }
 /* style your grid sections here!  */
 
@@ -48,4 +49,133 @@
 
 .ashleaspic {
   width: 300px;
+}
+
+#Jake {
+  color:#070e0f ;
+  background-color:#61ABA6;
+  max-width: 400px;
+  margin: auto;
+}
+#image {
+  display: block;
+  width: 70%;
+  max-width: 250px;
+  margin: 10px;
+  align-content: center;
+  margin-left: 30px;
+  border-style: inset;
+}
+#Jake > h1{
+  text-align:center;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
+.slogan{
+  font-family: cursive;
+  font-weight: bold;
+}
+#contacts{
+  display: flex;
+  border-style: dashed;
+  justify-content: space-between;
+}
+#Jennifer > img {
+  border-style: none;
+  width: 100px;
+}
+#Jennifer  h1 {
+  font-size: 2em;
+  color: white;
+  font-style: oblique;
+}
+#Jennifer {
+  background-color: Orchid;
+}
+#Jennifer > ul {
+  color: black;
+}
+#Jennifer > li {
+  color: black;
+}
+#Jennifer a {
+  color: black;
+}
+
+/* Tyler's style (box 4) */
+#tkbox {
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    font-family: garamond;
+    background-color: wheat;
+}
+
+#tkbox img {
+  width: 75%;
+  margin: 0 auto;
+  display: flex;
+  top: 0;
+  align-content: flex-start;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+#tkbox > div {
+
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: white;
+  width: 100%;
+  display: flex;
+}
+
+#tkbox h1 {
+
+}
+
+#tkbox h2 {
+  font-style: italic;
+}
+
+#tkbox li {
+  font-weight: bold;
+  width: 100%;
+}
+
+#tkbox a:hover {
+  color: crimson;
+  font-size: 17px;
+}
+
+div.ten {
+  border: 5px solid #ceddd6;
+  text-align: center;
+  color: #666666;
+  font-family: 'Raleway', sans-serif;
+  text-transform: capitalize;
+}
+
+.ten {
+  background-image: url("/theme/seigaiha.png");
+  background-position: center;
+  background-size: cover;
+}
+
+div.ten h2 {
+  font-size: 30px;
+  font-weight: 900;
+  color: #c9bfd3;
+}
+
+div.ten ul li {
+  font-size: 20px;
+  font-weight: 900;
+  display: inline;
+}
+
+div.ten img {
+  width: 57%;
+  border: 5px solid #ceddd6;
 }
