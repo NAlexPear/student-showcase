@@ -15,16 +15,19 @@
   max-width: 750px;
   text-align: center;
 }
+
+/* style your grid sections here!  */
 #Photo{
   width: 200px;
+  padding-bottom: 5px;
 }
-.content {
-  background color: #228b22;
+.one {
   color: white;
   font-family: 'Permanent Marker';
   text-align: center;
 }
-h2{
-  color: Green;
+h2
+{
+color: rgb(186,12,47);
+font-size: 45px;
 }
-/* style your grid sections here!  */
