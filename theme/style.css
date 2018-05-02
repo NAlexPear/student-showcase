@@ -41,15 +41,16 @@
 }
 
 #tkbox > div {
-  align-items: flex-end;
+
   justify-content: center;
   flex-wrap: wrap;
   background-color: white;
+  width: 100%;
+  display: flex;
 }
 
 #tkbox h1 {
-  width: 100%;
-  justify-content: center;
+
 }
 
 #tkbox h2 {
@@ -58,11 +59,12 @@
 
 #tkbox li {
   font-weight: bold;
+  width: 100%;
 }
 
 #tkbox a:hover {
   color: crimson;
-  font-size: 20px;
+  font-size: 17px;
 }
 
 .content div:nth-child(6) {
