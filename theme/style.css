@@ -30,23 +30,24 @@ img {
 
 li {
   background: linear-gradient(to bottom, #000066 0%, #cc0000 100%);
+  padding: 5px;
 }
 ul {
   font-family: helvetica neue;
   color: white;
 }
 
+a {
+  color: white;
+}
 #Allan {
   background: linear-gradient(to bottom, #000066 0%, #cc0000 100%);
 }
 
-#Allan {
+#header {
   font-family: helvetica neue;
   color: white;
-}
-
-h1 {
-  position: static;
+  text-align: center;
 }
 
 div {
