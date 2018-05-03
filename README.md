@@ -16,3 +16,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 + Jennifer Fisher
 + Drew Roby
 + Alex Pearson
++ Zoey Snyder
