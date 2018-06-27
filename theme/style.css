@@ -18,3 +18,11 @@
 }
 
 /* style your grid sections here!  */
+
+.kyle {
+  background-color: rgba(15, 15, 119, 0.411); 
+}
+.kyle h1 p {
+  font-family: cursive; 
+  font-weight: bolder; 
+}
