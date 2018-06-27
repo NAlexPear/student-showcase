@@ -18,3 +18,12 @@
 }
 
 /* style your grid sections here!  */
+
+#luke {
+  background-color: lightblue;
+}
+
+#luke img {
+  width: 100%;
+  max-width: 500px;
+}
