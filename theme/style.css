@@ -26,7 +26,54 @@ img {
 }
 
 #SiddhiDiv{
-  background-image: url(../assets/upfeathers.png)
-  
- 
+  background-image: url(../assets/upfeathers.png);
+}
+
+#adamsbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+#adamsbox ul {
+  list-style: none;
+}
+
+#adamsbox img {
+  max-width: 90%;
+  max-height: 25%;
+}
+
+#adamsbox div {
+  width: 100%;
+}
+
+.bread {
+  background: #faab3e;
+}
+
+.meat {
+  background: #a33815;
+}
+
+.meat p {
+  position: sticky;
+  bottom: 15px;
+  color: white;
+  text-decoration-style: solid;
+}
+
+.mustard {
+  background: #ffda01;
+}
+
+.ketchup {
+  background: #e81802;
+}
+
+.lettuce {
+  background: #a1d501;
 }
