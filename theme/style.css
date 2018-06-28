@@ -21,6 +21,45 @@ img {
 }
 
 /* style your grid sections here!  */
+
+/* Background pattern from Toptal Subtle Patterns */
+#luke {
+  background-image: url(../assets/retina_wood.png);
+  font-family: 'Markazi Text', serif;
+}
+
+#luke h1 {
+  color: #292A34;
+}
+
+#luke > p {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+}
+
+#luke > p span {
+  font-weight: bold;
+}
+
+#luke img {
+  width: 100%;
+  max-width: 500px;
+}
+
+#luke .fa-facebook {
+  color: blue;
+}
+
+#luke .fa-twitter {
+  color: #009fff;
+}
+
+#luke > ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
 img {
   width: 90%;
 }
