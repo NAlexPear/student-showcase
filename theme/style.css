@@ -43,11 +43,11 @@ img {
 }
 
 #omardiv {
-  background-image: url(../assets/connectwork.png)
+  background-image: url(../connectwork.png)
   
 }
 
 .container {
   font-family: 'Permanent Marker', cursive;
-  color: aqua
+  color: white
 }
