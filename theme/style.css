@@ -25,6 +25,10 @@ img {
   width: 90%;
 }
 
+#SiddhiDiv{
+  background-image: url(../assets/upfeathers.png);
+}
+
 #adamsbox {
   display: flex;
   flex-direction: column;
