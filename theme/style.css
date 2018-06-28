@@ -9,6 +9,7 @@
   background-position: center;
 }
 
+
 .header h1 {
   display: block;
   max-width: 750px;
@@ -22,5 +23,31 @@ img {
 
 /* style your grid sections here!  */
 img {
-  width: 90%;
+  
+  width: 100%;
+}
+
+#concrete {
+  background-image: url(../assets/concrete-texture.png);
+}
+
+#concrete h1 {
+  color: #DE5B49;
+  font-family: 'Zilla Slab', serif;
+  font-size: 3em;
+}
+
+#concrete p {
+  color: #324D5C;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+}
+
+#concrete ul {
+  color: #324D5C;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.fab fa-grav {
+  font-size: 4pt;
 }
