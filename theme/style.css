@@ -24,3 +24,30 @@ img {
 img {
   width: 90%;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+.omar {
+  font-family: 'Russo One', sans-serif;
+  color: blue;
+
+}
+
+.omarp {
+  font-family: 'Exo 2', sans-serif;
+  color: red;
+}
+
+#omardiv {
+  background-image: url(../assets/connectwork.png)
+  
+}
+
+.container {
+  font-family: 'Permanent Marker', cursive;
+  color: aqua
+}
