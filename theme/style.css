@@ -66,14 +66,76 @@ img {
   width: 90%;
 }
 
-<<<<<<< HEAD
-#areannadiv ul{
-list-style: none;
-}
-#areannadiv background{
+#areanna h1{
+   display:flex;
+  text-align: center;
+  font-family: 'Galada', cursive;
  
 }
-=======
+#areanna h2{
+  font-family: 'Galada', cursive;   
+  text-align: center;
+}
+
+#areanna  ol{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin: left 10px
+}
+
+#areanna p{
+  font-family: 'Lora', serif;
+}
+
+#areanna ol > li{
+  font-family: 'Lora', serif;
+  display: inline;
+  
+}
+
+#areanna a{
+  text-decoration: none;
+  color: black;
+}
+
+#areanna #quote{
+  text-align: center;
+  border: 3px solid black;
+  margin: 20px;
+  justify-content: center;
+  border:3px solid black;
+}
+#areanna{
+  background-image: url(../assets/marble.jpg)
+}
+
+#areanna img{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  justify-content: space-around;
+}
+
+.fa-instagram:before {
+  font-size: 20px;
+}
+
+.fa-facebook:before{
+  font-size: 20px;
+}
+
+.fa-home:before {
+  font-size: 20px;
+}
+.fa-envelope:before {
+  content: "\f0e0";
+  font-size: 20px;
+}
+
 #concrete {
   background-image: url(../assets/concrete-texture.png);
 }
@@ -178,4 +240,3 @@ list-style: none;
 .lettuce {
   background: #a1d501;
 }
->>>>>>> 98beef7bce5bb3f691c75caed5dfd9cb2b53a83a
