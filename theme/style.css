@@ -1,20 +1,28 @@
 .header {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
   align-items: center;
-  background-image: url(https://via.placeholder.com/450x150);
+  background-image: url(https://i.imgur.com/domgfYL.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 .header h1 {
   display: block;
+  font-size: 2.5rem;
+  letter-spacing: 0.15rem;
   max-width: 750px;
   text-align: center;
 
   
+}
+
+img {
+  width: 100%;
 }
 
 /* style your grid sections here!  */
@@ -22,10 +30,147 @@
   background-image:url(https://i.ytimg.com/vi/BWxMuQre3R8/maxresdefault.jpg);
 
 }
-h1 {
 
+/* Kelsey Sikes */
+.Savvy {
+  background-color:teal;
+  font-family: 'Poppins', sans-serif;
+  justify-content: center; 
 }
-a {
 
+.Kelsey {
+  color: darkblue; 
+  font-size: 35px; 
 }
+
+.Job {
+  color: steelblue; 
+}
+
+.KSikes {
+  width: 85%; 
+}
+
+.Kquote {
+  font-style: italic; 
+  color: steelblue;
+}
+
+.Kemail {
+  color: darkblue; 
+}
+
+.Git {
+  color: darkblue; 
+}
+
+/* Alex Lapp CSS begin */
+
+.content > div:nth-child(3) {
+  display: flex;
+  background: repeating-linear-gradient(90deg, hotpink 0%,royalblue 100%);
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.content > div:nth-child(3) > h1 {
+  text-transform: uppercase;
+  font-family: monospace;
+  font-size: 3em;
+  color: fuchsia;
+  text-shadow: -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+  letter-spacing: 0.3em;
+  border-bottom: 3px #000 dotted;
+  margin-top: 0;
+}
+
+.content > div:nth-child(3) > h2,
+.content > div:nth-child(3) > h3 {
+  text-transform: uppercase;
+  font-family: monospace;
+  font-size: 1.5em;
+  color: royalblue;
+  text-shadow: -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+  letter-spacing: 0.2em;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+.content > div:nth-child(3) > img {
+  padding: 3px;
+  border: solid 1px black;
+}
+
+.content > div:nth-child(3) a {
+  color: black;
+  text-decoration: none;
+  text-shadow: none;
+  border-bottom: 1px #000 dotted;
+}
+
+/* Alex Lapp CSS end */
+
+#tori { 
+  font-family: 'Alegreya', serif;
+  background-color: whitesmoke;
+  color: rgb(146, 146, 146);
+  text-align: center;
+}
+
+#tori img {
+  width: 20%;
+  border: 1.5px solid;
+  padding: 3px;
+  border-color: rgb(102, 233, 200);
+}
+
+#tori > h1 {
+  font-family: 'Vollkorn', serif;
+  color: rgb(102, 233, 200);
+  text-shadow: .5px .5px rgb(177, 170, 170);
+}
+
+#tori > h3 > em {
+  color: rgb(202, 199, 199);
+  font-weight: 100;
+}
+
+#tori > ul > li {
+  list-style-type: none;
+}
+
+#tori > ul > li > i {
+  padding: .5px;
+  text-shadow: .5px .5px rgb(102, 233, 200);
+}
+
+#tori a {
+  color: rgb(102, 233, 200);
+}
+
+#tori a:hover {
+  text-shadow: .5px .5px rgb(177, 170, 170);
+}
+
+
+.content > div:nth-child(6) {
+  background-color: hotpink;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.content > div:nth-child(6) h2,
+.content > div:nth-child(6) h3,
+.content > div:nth-child(6) h4 {
+  color: cyan;
+  font-style: italic;
 }
