@@ -16,3 +16,50 @@
 }
 
 /* style your grid sections here!  */
+
+.content>div:nth-child(3) {
+  display: flex;
+  background: repeating-linear-gradient(90deg, hotpink 0%,royalblue 100%);
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.content>div:nth-child(3)>h1 {
+  text-transform: uppercase;
+  font-family: monospace;
+  font-size: 3em;
+  color: hotpink;
+  text-shadow: -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+  letter-spacing: 0.3em;
+  border-bottom: 3px #000 dotted;
+}
+
+.content>div:nth-child(3)>h2,
+.content>div:nth-child(3)>h3 {
+  text-transform: uppercase;
+  font-family: monospace;
+  font-size: 1.5em;
+  color: royalblue;
+  text-shadow: -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+  letter-spacing: 0.2em;
+  font-style: italic;
+}
+
+.content>div:nth-child(3)>img {
+  padding: 3px;
+  border: solid 1px black;
+}
+
+.content>div:nth-child(3) a {
+  color: black;
+  text-decoration: none;
+  text-shadow: none;
+  border-bottom: 1px #000 dotted;
+}
