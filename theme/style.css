@@ -17,23 +17,21 @@
 
 /* style your grid sections here!  */
 .Gucc h1 {
-font-family: fantasy;
-font-size: 36px;
-font: bolder;
+  font-family: fantasy;
+  font-size: 36px;
+  font: bolder;
 }
 
 .Gucc h4 {
   font-size: 36px;
   font-family: fantasy;
+}
 
-  }
-
-  .Gucc ul{
-    font-family: fantasy;
-    align-content: center;
-
-  }
-  .Gucc img{
-    align-items: center;
-    width: 75%;
-  }
+.Gucc ul{
+  font-family: fantasy;
+  align-content: center;
+}
+.Gucc img{
+  align-items: center;
+  width: 75%;
+}
