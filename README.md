@@ -18,3 +18,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 + Alex Pearson
 + Zoey Snyder
 + Alex Lapp
++ Pierre Clark
