@@ -66,6 +66,41 @@ img {
 
 /* Alex Lapp CSS begin */
 
+#ONE {
+  padding: 0;
+  background-image: url("https://i.imgur.com/F6mW3uj.jpg");
+  background-position: center;
+}
+
+div #words {
+  margin: 8px;
+  visibility: hidden;
+}
+
+#ONE:hover {
+  opacity: 0.5;
+}
+
+#quote {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 2.1rem;
+}
+
+#ONE i {
+  font-size: 2rem;
+}
+
+#travis {
+  font-style: italic;
+  font-style: italic;
+  text-align: end;
+}
+
+#ONE:hover > #words {
+  visibility: visible;
+}
+
 .content > div:nth-child(3) {
   display: flex;
   background: repeating-linear-gradient(90deg, hotpink 0%,royalblue 100%);
