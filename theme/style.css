@@ -20,6 +20,21 @@ img {
 }
 
 /* style your grid sections here!  */
+#pierre {
+  background-image: url(https://images5.alphacoders.com/557/thumb-1920-557442.png);
+  color: orange;
+  display: flex;
+  align-items: center;   
+ }
+ .pierrecontent {
+   display: flex;
+   color: hotpink; 
+   justify-content: flex-end; 
+ }
+
+
+
+
 
 /* Alex Lapp CSS begin */
 
