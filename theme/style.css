@@ -16,3 +16,21 @@
 }
 
 /* style your grid sections here!  */
+
+#Fourteen {
+  font-family: 'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: steelblue;
+  background-color: #bbbbbb;
+}
+
+#Fourteen ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+#Fourteen img {
+  width: 80px;
+  height: 70px;
+  ;
+}
