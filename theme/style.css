@@ -69,7 +69,7 @@ img {
   text-shadow: none;
   border-bottom: 1px #000 dotted;
 }
-<<<<<<< HEAD
+
 #dan {
   display: flex;
   flex-direction: column;
@@ -87,7 +87,5 @@ img {
 #dan a:hover {
   background-color: coral;
 }
-=======
 
 /* Alex Lapp CSS end */
->>>>>>> 8904a2d4113879dd755b4ca72fcb27431c4f029a
