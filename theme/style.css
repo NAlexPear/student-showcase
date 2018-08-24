@@ -80,17 +80,17 @@ img {
   width: 20%;
 }
 
-#tori>h1 {
+#tori > h1 {
   font-family: 'Vollkorn', serif;
   color: rgb(102, 233, 200);
   text-shadow: .5px .5px rgb(177, 170, 170);
 }
 
-#tori>ul>li {
+#tori > ul > li {
   list-style-type: none;
 }
 
-#tori>ul>li>i {
+#tori > ul > li > i {
   padding: .5px;
   text-shadow: .5px .5px rgb(102, 233, 200);
 }
