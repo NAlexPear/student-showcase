@@ -25,6 +25,39 @@ img {
 
 /* style your grid sections here!  */
 
+/* Kelsey Sikes */
+.Savvy {
+  background-color:teal;
+  font-family: 'Poppins', sans-serif;
+  justify-content: center; 
+}
+
+.Kelsey {
+  color: darkblue; 
+  font-size: 35px; 
+}
+
+.Job {
+  color: steelblue; 
+}
+
+.KSikes {
+  width: 85%; 
+}
+
+.Kquote {
+  font-style: italic; 
+  color: steelblue;
+}
+
+.Kemail {
+  color: darkblue; 
+}
+
+.Git {
+  color: darkblue; 
+}
+
 /* Alex Lapp CSS begin */
 
 .content > div:nth-child(3) {
