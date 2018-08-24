@@ -21,6 +21,8 @@ img {
 
 /* style your grid sections here!  */
 
+/* Alex Lapp CSS begin */
+
 .content > div:nth-child(3) {
   display: flex;
   background: repeating-linear-gradient(90deg, hotpink 0%,royalblue 100%);
@@ -67,6 +69,7 @@ img {
   text-shadow: none;
   border-bottom: 1px #000 dotted;
 }
+<<<<<<< HEAD
 #dan {
   display: flex;
   flex-direction: column;
@@ -81,4 +84,10 @@ img {
 #dan p {
   font-style: italic;
 }
-#dan a:hover {background-color: coral};
+#dan a:hover {
+  background-color: coral;
+}
+=======
+
+/* Alex Lapp CSS end */
+>>>>>>> 8904a2d4113879dd755b4ca72fcb27431c4f029a
