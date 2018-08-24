@@ -42,7 +42,7 @@ img {
   1px 1px 0 #000;
   letter-spacing: 0.3em;
   border-bottom: 3px #000 dotted;
-  margin-top: -10px;
+  margin-top: 0;
 }
 
 .content > div:nth-child(3) > h2,
@@ -57,7 +57,7 @@ img {
   1px 1px 0 #000;
   letter-spacing: 0.2em;
   font-style: italic;
-  margin-bottom: -5px;
+  margin-bottom: 0;
 }
 
 .content > div:nth-child(3) > img {
