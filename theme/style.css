@@ -115,6 +115,27 @@ img {
   border-bottom: 1px #000 dotted;
 }
 
+#dan {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: lightblue;
+}
+
+#dan h2 {
+  font-family: 'Courier New', Courier, monospace;
+  color: darkblue;
+}
+
+#dan p {
+  font-style: italic;
+}
+
+#dan a:hover {
+  background-color: coral;
+}
+
 /* Alex Lapp CSS end */
 
 #tori { 
