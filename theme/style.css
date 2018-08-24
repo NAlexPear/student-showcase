@@ -77,13 +77,16 @@ img {
   align-items: center;
   background-color: lightblue;
 }
+
 #dan h2 {
   font-family: 'Courier New', Courier, monospace;
   color: darkblue;
 }
+
 #dan p {
   font-style: italic;
 }
+
 #dan a:hover {
   background-color: coral;
 }
