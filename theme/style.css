@@ -17,6 +17,8 @@
   letter-spacing: 0.15rem;
   max-width: 750px;
   text-align: center;
+
+  
 }
 
 img {
@@ -24,6 +26,10 @@ img {
 }
 
 /* style your grid sections here!  */
+ .chad {
+  background-image:url(https://i.ytimg.com/vi/BWxMuQre3R8/maxresdefault.jpg);
+
+}
 
 /* Kelsey Sikes */
 .Savvy {
