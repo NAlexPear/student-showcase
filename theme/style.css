@@ -18,20 +18,33 @@
 /* style your grid sections here!  */
 .Gucc h1 {
   font-family: fantasy;
+  color: darkred;
+  background-color: black;
   font-size: 36px;
   font: bolder;
 }
-
 .Gucc h4 {
-  font-size: 36px;
+  color: darkred;
+  font-size: 24px;
   font-family: fantasy;
 }
-
-.Gucc ul{
+.Gucc ul {
+  color: darkred;
   font-family: fantasy;
   align-content: center;
+  font-size: 18px;
+  list-style: none;
+  padding: 0px;
+  letter-spacing: 2px;
+  line-height: 24px;
+}
+#content {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .Gucc img{
   align-items: center;
-  width: 75%;
+  width: 60%;
 }
