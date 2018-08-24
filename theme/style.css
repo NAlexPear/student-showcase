@@ -1,16 +1,20 @@
 .header {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
   align-items: center;
-  background-image: url(http://via.placeholder.com/450x150);
+  background-image: url(https://i.imgur.com/domgfYL.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 .header h1 {
   display: block;
+  font-size: 2.5rem;
+  letter-spacing: 0.15rem;
   max-width: 750px;
   text-align: center;
 }
@@ -20,6 +24,8 @@ img {
 }
 
 /* style your grid sections here!  */
+
+/* Alex Lapp CSS begin */
 
 .content > div:nth-child(3) {
   display: flex;
@@ -68,6 +74,7 @@ img {
   border-bottom: 1px #000 dotted;
 }
 
+/* Alex Lapp CSS end */
 
 #tori { 
   font-family: 'Alegreya', serif;
@@ -106,4 +113,19 @@ img {
 #tori a:visited {
   text-shadow: .5px .5px rgb(102, 233, 200);
   color: rgb(146, 146, 146);
+}
+
+.content > div:nth-child(6) {
+  background-color: hotpink;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.content > div:nth-child(6) h2,
+.content > div:nth-child(6) h3,
+.content > div:nth-child(6) h4 {
+  color: cyan;
+  font-style: italic;
 }
