@@ -18,14 +18,29 @@
 }
 
 /* style your grid sections here!  */
- .chad {
-  background-image:url(https://i.ytimg.com/vi/BWxMuQre3R8/maxresdefault.jpg);
+.chad {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  image:  url(http://planetearthinstitute.org.uk/wp-content/uploads/2016/04/unnamed.jpg)
+}
 
-}
-h1 {
+#quote {
+    font-color: rgb(204, 150, 200);
+    font-size: 325s%
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   }
+   
 
-}
-a {
-
-}
-}
+  
+ }
