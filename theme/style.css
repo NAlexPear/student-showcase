@@ -1,46 +1,46 @@
+ 
 .header {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  background-image: url(https://via.placeholder.com/450x150);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
-.header h1 {
-  display: block;
-  max-width: 750px;
-  text-align: center;
-
-  
-}
-
-/* style your grid sections here!  */
-.chad {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  image:  url(http://planetearthinstitute.org.uk/wp-content/uploads/2016/04/unnamed.jpg)
-}
-
-#quote {
-    font-color: rgb(204, 150, 200);
-    font-size: 325s%
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: flex-start;
+    align-items: center;
+    background-image: url(https://via.placeholder.com/450x150);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-   }
-   
-
+  }
   
- }
+  .header h1 {
+    display: block;
+    max-width: 750px;
+    text-align: center;
+  
+    
+  }
+  
+  /* style your grid sections here!  */
+  .chad {
+    background-image: url(http://planetearthinstitute.org.uk/wp-content/uploads/2016/04/unnamed.jpg);
+   background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+.chad {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 175%;
+    font-margin: black;
+    color: rgb(404, 150, 230);
+    justify-content: start;
+   
+}
+p {
+    color: rgb(404, 150, 230);
+    font-size: 180%;
+    font-margin:black;
+    display: flex;
+}
+
+
+
