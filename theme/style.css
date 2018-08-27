@@ -143,14 +143,14 @@ div #words {
   border: solid 1px black;
 }
 
-/* Alex Lapp CSS end */
-
 .content > div:nth-child(3) a {
   color: black;
   text-decoration: none;
   text-shadow: none;
   border-bottom: 1px #000 dotted;
 }
+
+/* Alex Lapp CSS end */
 
 #dan {
   display: flex;
