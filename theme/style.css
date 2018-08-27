@@ -64,8 +64,6 @@ img {
   color: darkblue; 
 }
 
-/* Alex Lapp CSS begin */
-
 #ONE {
   padding: 0;
   background-image: url("https://i.imgur.com/F6mW3uj.jpg");
@@ -100,6 +98,8 @@ div #words {
 #ONE:hover > #words {
   visibility: visible;
 }
+
+/* Alex Lapp CSS begin */
 
 .content > div:nth-child(3) {
   display: flex;
@@ -143,6 +143,8 @@ div #words {
   border: solid 1px black;
 }
 
+/* Alex Lapp CSS end */
+
 .content > div:nth-child(3) a {
   color: black;
   text-decoration: none;
@@ -170,8 +172,6 @@ div #words {
 #dan a:hover {
   background-color: coral;
 }
-
-/* Alex Lapp CSS end */
 
 #tori { 
   font-family: 'Alegreya', serif;
