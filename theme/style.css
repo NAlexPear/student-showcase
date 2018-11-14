@@ -16,13 +16,12 @@
 }
 
 /* style your grid sections here!  */
-#fabi h1{
+#fabi p{
   font-family:'Fira Sans', sans-serif;
-  color: navy
 }
 
 #fabi img{
-  border-radius: 6px;
+  border-radius: 20px;
 }
 
 #fabi h3{
