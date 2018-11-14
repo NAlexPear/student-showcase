@@ -6,3 +6,11 @@ Today, you're going to help create a Student Showcase for you and your classmate
 Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
 - sonni edwards
+- Sidney Hemphill
+- Summer Richards
+- Fabiane Clubb
+- Damian C-D
+- Phill Temple
+- Joe Asaro
+- Derek Dunwiddie
+- Alex Pearson
