@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  background-image: url(http://via.placeholder.com/450x150);
+  background-image: url(http://via.placeholder.com/450x150); ;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -13,12 +13,10 @@
   display: block;
   max-width: 750px;
   text-align: center;
-  letter-spacing: 3px;
-  color: orangered;
 }
 
 /* style your grid sections here!  */
 p {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Special Elite', cursive;
   color: yellow;
 }
