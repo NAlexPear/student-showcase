@@ -7,16 +7,26 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
-
-.header h1 {
   display: block;
   max-width: 750px;
   text-align: center;
 }
 
+
 /* style your grid sections here!  */
-.p {
-  font-family: 'Special Elite', cursive;
+.header2 {
   color: yellow;
+  font: bold;
+  font-family: 'Bangers', cursive;
+  border: 1em 3em;
+  text-align: center;
+  size: 2em;
+  
+
+}
+
+.p1 {
+  color: royalblue;
+  font-size: 2em;
+
 }
