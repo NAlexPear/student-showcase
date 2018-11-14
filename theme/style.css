@@ -1,3 +1,4 @@
+
 .header {
   display: flex;
   flex-direction: column;
@@ -13,6 +14,31 @@
   display: block;
   max-width: 750px;
   text-align: center;
-}
+  }
 
 /* style your grid sections here!  */
+#Thirteen {
+  background-color: black;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+#Thirteen h2{
+  color:crimson;
+  }
+#Thirteen h3{
+  color:wheat;
+  background-color:crimson;
+  padding: 1%;
+}
+#Thirteen a{
+  display: block;
+  align-content: center;
+  color:crimson;
+  padding: 1em;
+}
+#Thirteen img{
+  padding: 1em;
+  background-color: crimson;
+}
