@@ -21,6 +21,35 @@ img {
 
 /* style your grid sections here!  */
 
+#Thirteen {
+  background-color:black;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#Thirteen h2 {
+  color: crimson;
+}
+
+#Thirteen h3 {
+  color: wheat;
+  background-color: crimson;
+}
+
+#Thirteen a {
+  display: block;
+  align-content: center;
+  color: crimson;
+  padding: 1em;
+}
+
+#Thirteen img {
+  padding: 1em;
+  background-color: crimson;
+}
+
 #derek {
   background: linear-gradient(135deg, #6c71c4, #002b36, #2aa198, #073642);
   display: flex;
