@@ -15,4 +15,16 @@
   text-align: center;
 }
 
-/* style your grid sections here!  */
+#phill {
+  font-family: 'Allerta Stencil', sans-serif;
+  background-color: rgb(255, 0, 242);
+  font-size: 2rem;
+}
+
+#phill img {
+  width: auto;
+}
+
+#phill ul {
+  list-style: none;
+}
