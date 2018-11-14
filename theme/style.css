@@ -15,4 +15,32 @@
   text-align: center;
 }
 
+img {
+  width: 100%;
+}
+
 /* style your grid sections here!  */
+
+#alex {
+  background-color: hotpink;
+}
+
+#alex h3,
+#alex h4 {
+  font-size: 2rem;
+  font-family: 'Helvetica', Arial, sans-serif;
+}
+
+#alex img {
+  border-radius: 50%;
+  height: 20rem;
+  object-fit: cover;
+  object-position: center right;
+  padding: 1rem;
+  width: 20rem;
+}
+
+#alex li {
+  font-size: 1.5rem;
+  font-family: monospace;
+}
