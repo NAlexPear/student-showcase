@@ -1,0 +1,10 @@
+body {
+    background-color: red;
+    margin: 0;
+}
+
+#chaquita {
+    background-color: limegreen;
+    font-family: fantasy;
+    align-items: center;
+}
