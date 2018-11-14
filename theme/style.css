@@ -21,6 +21,20 @@ img {
 
 /* style your grid sections here!  */
 
+#mike {
+  background-color: plum
+}
+ 
+#italics {
+  font-style: italic;
+}
+
+#bold {
+  font-style: bold;
+}
+
+
+
 #alex {
   background-color: hotpink;
 }
