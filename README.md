@@ -14,6 +14,7 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 - Sidney Hemphill
 - Summer Richards
 - Fabiane Clubb
+- Mike Gregory
 - Damian C-D
 - Phill Temple
 - Joe Asaro
