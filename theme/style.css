@@ -15,6 +15,14 @@
   text-align: center;
 }
 
+li:nth-child(3)
+{
+  font-size: 1.5rem;
+}
+li:nth-child(4)
+{
+  font-size: 1rem;
+}
 #phill {
   font-family: 'Allerta Stencil', sans-serif;
   background-color: rgb(255, 0, 242);
