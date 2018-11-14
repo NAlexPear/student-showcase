@@ -16,3 +16,45 @@
 }
 
 /* style your grid sections here!  */
+
+#kayla {
+  border: .5em solid black;
+  font-family: 'Annie Use Your Telescope', cursive;
+  background-color: darkslategray;
+  color: darksalmon;
+  padding: 1.3em;
+  text-align: center;
+}
+
+
+#kayla p {
+  font-family: 'Alex Brush', cursive;
+  font-size: 2em;
+  color: bisque;
+}
+
+#kayla li:hover {
+  color: bisque;
+}
+#kayla ul {
+  background-color: darkred;
+  font-size: 1.75em;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#kayla ul > li {
+list-style: none; 
+
+}
+
+#kayla img {
+  margin: auto;
+  padding: 1.3em;
+  display: block;
+  width: 80%;
+  max-width: 300px;
+}
