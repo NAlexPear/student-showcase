@@ -27,12 +27,21 @@ li:nth-child(4) {
   font-family: 'Allerta Stencil', sans-serif;
   background-color: rgb(255, 0, 242);
   font-size: 2rem;
+  color: rgb(19, 236, 226);
+  text-align: center;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 #phill img {
-  width: auto;
+  display: flex;
+    margin-left: 45px;
+    margin-right: 40px;
+  width: 80%;
 }
 
 #phill ul {
   list-style: none;
 }
+
