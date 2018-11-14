@@ -1,0 +1,473 @@
+[33mcommit c2fa447a1408905b9283801d8d3440ccc1afdede[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sonni edwards <son.e@cheerful.com>
+Date:   Tue Nov 13 20:03:47 2018 -0600
+
+    deletion of (#text)
+
+[33mcommit ceea3767fc104d1877cac2e1e231b13e4f11ada4[m
+Author: sonni edwards <son.e@cheerful.com>
+Date:   Tue Nov 13 20:02:09 2018 -0600
+
+    deletion of (in-line styling)
+
+[33mcommit 40cb7e368d5ff2c211ae969068c9fb4e760f6aae[m
+Merge: c71fb69 63f8128
+Author: sonni edwards <son.e@cheerful.com>
+Date:   Tue Nov 13 19:50:35 2018 -0600
+
+    Merge branch 'master' of https://github.com/NAlexPear/student-showcase
+
+[33mcommit 63f812865723d43bf36cb3c19c64520fdfb2d444[m[33m ([m[1;31mproduction/master[m[33m)[m
+Merge: 7f0d942 4ed0bea
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:49:39 2018 -0600
+
+    Merge pull request #271 from pcortezt/master
+    
+    My 1st 2nd pulling!
+
+[33mcommit 4ed0bea80da578fe7f788026b46aad1c56a52131[m
+Merge: 383cf2e 7f0d942
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:49:31 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit c71fb69c6c4b84a676a076770940ccc669fc1370[m
+Author: sonni edwards <son.e@cheerful.com>
+Date:   Tue Nov 13 19:41:25 2018 -0600
+
+    update div three sonniedwards student-showcase
+
+[33mcommit 383cf2e7340e1f9b48aa64a4e4161a4b0487b2b9[m
+Author: Phillip Temple <phillipcorteztemple@gmail.com>
+Date:   Tue Nov 13 19:40:03 2018 -0600
+
+    the space is gone(ing)
+
+[33mcommit 7f0d942c99548530247d389082bf8c3467249551[m
+Merge: 44fd016 957568d
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:36:29 2018 -0600
+
+    Merge pull request #269 from Cardoza0581/master
+    
+    Add content to div thirteen
+
+[33mcommit ff5c9da433011bf61619bd57467d319b313f5c84[m
+Author: Phillip Temple <phillipcorteztemple@gmail.com>
+Date:   Tue Nov 13 19:35:49 2018 -0600
+
+    Rogue comment! Plz deleteing
+
+[33mcommit 957568d66f8ee70ede5cb16a023c9543234cd5f0[m
+Author: Jason Brown <cardoza0581@hotmail.com>
+Date:   Tue Nov 13 19:31:56 2018 -0600
+
+    Removed extra space
+
+[33mcommit a6fd60107d59d83b70cbcafbaa3490625c131c65[m
+Author: Phillip Temple <phillipcorteztemple@gmail.com>
+Date:   Tue Nov 13 19:31:18 2018 -0600
+
+    my 4things
+
+[33mcommit 44fd01699fbb6ca277ea0ded3508e2df0761b86c[m
+Merge: e6bba57 65af931
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:28:28 2018 -0600
+
+    Merge pull request #268 from dunwiddie/master
+    
+    Add content to div 8
+
+[33mcommit 141105296eaaafe7789cb3c2f146a46d63b4b8c2[m
+Author: Phillip Temple <phillipcorteztemple@gmail.com>
+Date:   Tue Nov 13 19:28:14 2018 -0600
+
+    my 4 things
+
+[33mcommit e6bba5712abe6eaf06c73cba9a9f2e7eecd40a0f[m
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:25:56 2018 -0600
+
+    :sparkles: Add Alex's beautiful face
+
+[33mcommit a057ad316c214f07b2717bb6190f083059e27149[m
+Author: Jason Brown <cardoza0581@hotmail.com>
+Date:   Tue Nov 13 19:25:23 2018 -0600
+
+    Add content to div thirteen
+
+[33mcommit 65af9318a3103a1f879b1508d358fbe2b06f5567[m
+Author: Derek Dunwiddie <dunwiddie.derek@gmail.com>
+Date:   Tue Nov 13 19:24:57 2018 -0600
+
+    Add content to div 8
+
+[33mcommit 0578cbe872fa0ace733c909b770914d24ea24f1a[m
+Merge: a728ee4 9d358ae
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:21:03 2018 -0600
+
+    Merge pull request #265 from AshHunt/master
+    
+    student showcase
+
+[33mcommit 9d358ae56dcbeb688b62f5f6dac32ee74b83982e[m
+Merge: e96e0f3 a728ee4
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:20:50 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit e96e0f32994e3c68c1780c8e8ea271bdc9017ed8[m
+Author: Ashlyn Hunt <aahunt92@gmail.com>
+Date:   Tue Nov 13 19:19:46 2018 -0600
+
+    deleted file
+
+[33mcommit a728ee47a3abf5460d06e7f88b963688d9b08356[m
+Merge: 4d6344e 89eee33
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:16:16 2018 -0600
+
+    Merge pull request #266 from CJohnMoore/master
+    
+    :sparkle: Add student showcase
+
+[33mcommit 89eee338344cae6a383b7a4e659ef81ca2b7bbf2[m
+Merge: 7085c6d 4d6344e
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:16:05 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 7085c6dbae2f0fbb31749c78898b625293f2f29f[m
+Author: unknown <chaquita@cjmdevelopments.com>
+Date:   Tue Nov 13 19:08:23 2018 -0600
+
+    :sparkle: Add student showcase
+
+[33mcommit 4d6344e458023d546507220fa54577ed823261de[m
+Merge: 5150d81 ab0d520
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:01:50 2018 -0600
+
+    Merge pull request #264 from CardsFan89/master
+    
+    added my name
+
+[33mcommit ab0d520f5e94b6c1a344075e87c0d027934590f2[m
+Merge: 14bcb12 5150d81
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:01:14 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 5150d818554df3b7ce72b103d903a29ec709d749[m
+Merge: f918369 7120525
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 19:00:03 2018 -0600
+
+    Merge pull request #263 from Kayforsythe/master
+    
+    Add Kayla Forsythe
+
+[33mcommit 7120525f49eef42a81a402866cb38059a3ec480c[m
+Merge: 2ba4781 f918369
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:59:53 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit f9183693539818f6649186064f62d3eed8b1d492[m
+Merge: 3483eb6 d5faa84
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:59:26 2018 -0600
+
+    Merge pull request #262 from Cardoza0581/master
+    
+    modified showcase
+
+[33mcommit d5faa84942b66b7cac4be1556dd4a35246c92c1a[m
+Merge: c901040 3483eb6
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:59:18 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 3483eb6a95fac8c432b5baf323f184271329e7a7[m
+Merge: f9f68cd e2b09f3
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:57:08 2018 -0600
+
+    Merge pull request #261 from savvyme314/master
+    
+    please adopt changes into your repository
+
+[33mcommit e2b09f3005b618491d55dd0af1b7b218bbfe86d4[m
+Merge: 35f6fe7 f9f68cd
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:56:59 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit f9f68cd8d511eab4ca658462996a73157c95b1ea[m
+Merge: 44f0437 7fd0462
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:56:24 2018 -0600
+
+    Merge pull request #260 from SidHemphill314/master
+    
+    ModShowcase
+
+[33mcommit 7fd0462202e220e0ac8ce07ce079cf797aa9f3d9[m
+Merge: 46fe92a 44f0437
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:56:18 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 44f0437dd3acb9fba0e3f3c7c2c87759818ebca8[m
+Merge: ac6e96a 462c729
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:55:46 2018 -0600
+
+    Merge pull request #259 from Melkortheslumpgod/master
+    
+    :congratulations: joe asaro contributer
+
+[33mcommit 462c72949979e2192dc5a1905aacbeafff2d5ccb[m
+Merge: 0e54b97 ac6e96a
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:55:33 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit ac6e96a107ba486cfe7128b194aec186faa4c52e[m
+Merge: a998a2c 614918a
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:54:56 2018 -0600
+
+    Merge pull request #258 from SummerTimeee/master
+    
+    : sparkless Add Summer to contributer list
+
+[33mcommit 614918a2720594a13c6d5be6add9a8c3fd14331a[m
+Merge: 1162b6f a998a2c
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:54:49 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit a998a2c0d7ec9843117f0cf9da79dbc1b9e07ca3[m
+Merge: 9f8f671 31666ce
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:54:19 2018 -0600
+
+    Merge pull request #257 from clubbfabiane/master
+    
+    Add name to ReadMe.md
+
+[33mcommit 31666ce715ff7633b737dfd92d77fa2ce30a3790[m
+Merge: f4b9af0 9f8f671
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:54:11 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 9f8f671c23224ccb50de84519ed27cbff394497e[m
+Merge: dd64e07 6215bde
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:52:56 2018 -0600
+
+    Merge pull request #256 from cdlay67/master
+    
+    update repo
+
+[33mcommit 6215bdedf041777f3430dd2e160ef1824aa24495[m
+Merge: a610762 dd64e07
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:52:49 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit dd64e07b2de000e5e9a2cc0c7b30929bace3af45[m
+Merge: 242c975 094a4ea
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:52:16 2018 -0600
+
+    Merge pull request #255 from pcortezt/master
+    
+    add Phill Temple name
+
+[33mcommit 094a4ea8aaafe3632b178eacd0143236c41cbc28[m
+Merge: 1bf9948 242c975
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:52:08 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 0938ee52a1cb03414623ec47b899483c6026e0de[m
+Author: Ashlyn Hunt <aahunt92@gmail.com>
+Date:   Tue Nov 13 18:51:46 2018 -0600
+
+    student showcase
+
+[33mcommit 0e54b97970514a03f9f0da9da7bc1f6057b30489[m
+Merge: 020ba1b 242c975
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:50:42 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 020ba1b3d584531010c04f84857617ac917d0329[m
+Author: Joe Asaro <Joeyasaro@gmail.com>
+Date:   Tue Nov 13 18:49:42 2018 -0600
+
+    joe go
+
+[33mcommit 1162b6f4c22b78274da8942b958fa95c37fbb663[m
+Merge: 69d57c2 242c975
+Author: SummerTimeee <44593745+SummerTimeee@users.noreply.github.com>
+Date:   Tue Nov 13 18:49:21 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 69d57c2b715855c1725aff05faed6deff1d01127[m
+Merge: 40d6e92 69fbde7
+Author: SummerTimeee <44593745+SummerTimeee@users.noreply.github.com>
+Date:   Tue Nov 13 18:47:37 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 242c975f7942ca4f1dd13c2ade077585953a5800[m
+Merge: 69fbde7 e648f52
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:47:05 2018 -0600
+
+    Merge pull request #254 from dunwiddie/master
+    
+    Add name to contributor list in README.md
+
+[33mcommit e648f52ce5c94ae617ab315fc225d8624732bb4d[m
+Merge: f82efb2 69fbde7
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:46:53 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 14bcb12ff981a634e33edfb74b51d1586d9c3863[m
+Author: Britten Sindelar <brittensindelar@gmail.com>
+Date:   Tue Nov 13 18:44:55 2018 -0600
+
+    added my name
+
+[33mcommit 1bf9948578da44f3ae31fbc2fd125f81ca293443[m
+Author: Phillip Temple <phillipcorteztemple@gmail.com>
+Date:   Tue Nov 13 18:40:10 2018 -0600
+
+    add Phill Temple name
+
+[33mcommit 40d6e92b411ce97b9539d316b837d211c6099ffe[m
+Author: Summer <Summerrichards01@gmail.com>
+Date:   Tue Nov 13 18:38:33 2018 -0600
+
+    : sparkless Add Summer to contributer list
+
+[33mcommit 96c45204196e2589663744c6831f023048bb2022[m
+Author: Joe Asaro <Joeyasaro@gmail.com>
+Date:   Tue Nov 13 18:38:27 2018 -0600
+
+    :congratulations: joe asaro contributer
+
+[33mcommit 35f6fe7d1269c894ddee63e518b5af361c4cfbe2[m
+Author: sonni edwards <son.e@cheerful.com>
+Date:   Tue Nov 13 18:37:50 2018 -0600
+
+    updated with student-showcase and git
+
+[33mcommit a610762effdc29d0655a70d844a7f43a2528ac87[m
+Author: Damian C-D <damianclay12@gmail.com>
+Date:   Tue Nov 13 18:37:30 2018 -0600
+
+    update repo
+
+[33mcommit f4b9af0933807b8acd5a926961d8470ea5252b19[m
+Author: Fabi Clubb <melofabi@ymail.com>
+Date:   Tue Nov 13 18:36:03 2018 -0600
+
+    Add name to ReadMe.md
+
+[33mcommit 69fbde7d013919f67c972731e322f971ef14a0df[m
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 13 18:35:58 2018 -0600
+
+    :sparkles: Add Alex to contributors list
+
+[33mcommit 46fe92a02fa2f1e274d193f92b4b311a997c947c[m
+Author: Sidney Hemphill <hemphillsid@gmail.com>
+Date:   Tue Nov 13 18:35:44 2018 -0600
+
+    ModShowcase
+
+[33mcommit 2ba47814daee044d473da76ccbdb3ac6896471c9[m
+Author: Kayla Forsythe <kaylarobideau@gmail.com>
+Date:   Tue Nov 13 18:35:38 2018 -0600
+
+    Add Kayla Forsythe
+
+[33mcommit c90104057019c67204b1cb855320947e1b0784ce[m
+Author: Jason Brown <cardoza0581@hotmail.com>
+Date:   Tue Nov 13 18:34:54 2018 -0600
+
+    modified showcase
+
+[33mcommit f82efb27a64e20816dee3244dbc3b143077c561f[m
+Author: Derek Dunwiddie <dunwiddie.derek@gmail.com>
+Date:   Tue Nov 13 18:34:49 2018 -0600
+
+    Add name to contributor list in README.md
+
+[33mcommit 4b3fc3f2c7b4b9ecb588643df8344bde11ca58fd[m
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 7 17:56:41 2017 -0600
+
+    Adjust grid to iPhone6+ breakpoint
+
+[33mcommit 6cb09ae38d004d6ffcc48cfaaf7e943f17c84b68[m
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 7 14:55:11 2017 -0600
+
+    Add grid system through grid.css
+
+[33mcommit 74c03d80bf8b417ef41404e4b42bc3a99f21426f[m
+Author: Alex Pearson <alex@alexpear.com>
+Date:   Tue Nov 7 13:28:31 2017 -0600
+
+    Scaffold re-worked showcase structure
+
+[33mcommit 4b2f16ecb08f960d5df76ef3b9ab055fbb798953[m
+Author: Alex Pearson <pearsonn.alex@gmail.com>
+Date:   Fri Jan 22 21:41:37 2016 +0000
+
+    Add welcome message and fix extra slash bug
+
+[33mcommit cf75d8ed990f68185e9a84faca8358cd56b9ea8c[m
+Author: Alex Pearson <pearsonn.alex@gmail.com>
+Date:   Fri Jan 22 21:34:44 2016 +0000
+
+    Add reset.css and minimal.css code
+
+[33mcommit 45b460cbe3a54905d59889b527738d027f6f517d[m
+Author: Alex Pearson <pearsonn.alex@gmail.com>
+Date:   Fri Jan 22 21:30:21 2016 +0000
+
+    Add boilerplate for student showcase
+
+[33mcommit b8638a1fef38576ff3f885a51cac253380ac394b[m
+Author: Alex Pearson <pearsonn.alex@gmail.com>
+Date:   Fri Jan 22 21:25:12 2016 +0000
+
+    Add README.md
