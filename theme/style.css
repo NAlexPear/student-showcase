@@ -22,7 +22,7 @@ img {
 /* style your grid sections here!  */
 
 #Thirteen {
-  background-color:black;
+  background-color:#0085CA;
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
@@ -41,10 +41,24 @@ img {
 #Thirteen a {
   display: block;
   align-content: center;
-  color: crimson;
+  color: rgb(128, 8, 32);
   padding: 1em;
 }
+#Thirteen q {
+  color:hotpink;
+}
+#Thirteen p{
+  color:rgb(231, 187, 105);
+}
+#Thirteen ul{
+color:rgb(112, 7, 28);
+font-size: 15px;
+}
 
+#Thirteen li{
+  color: rgb(110, 6, 27);
+  font-size: 15px;
+}
 #Thirteen img {
   padding: 1em;
   background-color: crimson;
