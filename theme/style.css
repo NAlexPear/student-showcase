@@ -13,6 +13,12 @@
   display: block;
   max-width: 750px;
   text-align: center;
+  letter-spacing: 3px;
+  color: orangered;
 }
 
 /* style your grid sections here!  */
+p {
+  font-family: 'Times New Roman', Times, serif;
+  color: yellow;
+}
