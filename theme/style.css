@@ -10,23 +10,37 @@
   display: block;
   max-width: 750px;
   text-align: center;
+  font-family: 'Fredoka One', cursive;
 }
 
 
 /* style your grid sections here!  */
-.header2 {
-  color: yellow;
-  font: bold;
-  font-family: 'Bangers', cursive;
+#Summer {
+  color: lightgreen;
   border: 1em 3em;
   text-align: center;
-  size: 2em;
-  
-
+}
+#Summer h2{
+  font-size: 6em;
+  letter-spacing: 0.3em;
 }
 
-.p1 {
-  color: royalblue;
-  font-size: 2em;
+ 
 
+#Summer p {
+  color: black;
+  font-family: 'Bree Serif', serif;
+  font-size: 2.5em;
+}
+
+#Summer li {
+  font-size: 2em;
+  color:blue;
+  font-size: 1.5em;
+}
+#Summer img {
+  width: 60%;
+  height: 40%;
+  border-style: solid;
+  border-width: 40px 40px;
 }
