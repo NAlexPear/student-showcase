@@ -36,36 +36,23 @@
 }
 
 .image-al-harvey {
-  height: 205px;
-  width: 162px;
+  width: 100%;
 }
 
 #al-harvey {
+  align-items: stretch;
   background: purple;
-    text-transform: unset;
-}
-
-#al-harvey>ul>li {
-  list-style: none;
+  display: flex;
+  flex-direction: column;
   font-family: 'Indie Flower', cursive;
   font-size: 30px;
 }
 
-#alharvey>ul>li>a {
-  text-decoration: none;
+#al-harvey li {
+  list-style: inline;
 }
 
-#al-harvey>h1 {
-  font-family: 'Indie Flower', cursive;
-  color: white;
-}
-
-#al-harvey>h4 {
-  font-family: 'Indie Flower', cursive;
-  color: white;
-}
-
-#al-harvey a {
+#al-harvey h1, h3, h4, a {
   color: white;
 }
 
