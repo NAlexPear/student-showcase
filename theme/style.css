@@ -17,6 +17,40 @@
 
 
 /* style your grid sections here!  */
+.image-al-harvey {
+  height: 205px;
+  width: 162px;
+}
+
+#al-harvey {
+  background: purple;
+    text-transform: unset;
+}
+
+#al-harvey>ul>li {
+  list-style: none;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+
+#alharvey>ul>li>a {
+  text-decoration: none;
+}
+
+#al-harvey>h1 {
+  font-family: 'Indie Flower', cursive;
+  color: white;
+}
+
+#al-harvey>h4 {
+  font-family: 'Indie Flower', cursive;
+  color: white;
+}
+
+#al-harvey a {
+  color: white;
+}
+
 .nate {
   background-color: goldenrod;
   font-family: Arial, Helvetica, sans-serif;
