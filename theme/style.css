@@ -17,7 +17,7 @@
 
 /* style your grid sections here!  */
 
-#nate{
+.nate{
   background-color: goldenrod;
   font-family: Arial, Helvetica, sans-serif;
   border: dashed;
@@ -26,6 +26,6 @@
   
 }
 
-#headers{
+.headers{
   color: red
 }
