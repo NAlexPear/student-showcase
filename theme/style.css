@@ -17,6 +17,11 @@
 
 
 /* style your grid sections here!  */
+#collin {
+  background-color: chartreuse;
+  font-family: fantasy;
+}
+
 .image-al-harvey {
   height: 205px;
   width: 162px;
