@@ -32,6 +32,8 @@
   background-color: bisque;
   color: black;
   font-family: 'Open Sans Condensed', sans-serif;
+  display: flex;
+  justify-content: center;
 }
 
 #amanda {
