@@ -14,12 +14,16 @@
   max-width: 750px;
   text-align: center;
 }
-#Trevon h3{
-  text-align: center;
-  background-color: red;
-}
+
 
 /* style your grid sections here!  */
+#amanda {
+  background-color: grey;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: dotted black;
+  text-align: center;
+}
+
 #alex {
   align-items: center;
   background-color: hotpink;
@@ -37,4 +41,9 @@
 #alex h4 {
   font-family: cursive;
   font-style: italic;
+}
+
+#Trevon h3{
+  text-align: center;
+  background-color: red;
 }
