@@ -16,3 +16,16 @@
 }
 
 /* style your grid sections here!  */
+
+#nate{
+  background-color: goldenrod;
+  font-family: Arial, Helvetica, sans-serif;
+  border: dashed;
+  text-align: center;
+
+  
+}
+
+#headers{
+  color: red
+}
