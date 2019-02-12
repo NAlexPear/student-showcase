@@ -17,6 +17,11 @@
 
 
 /* style your grid sections here!  */
+#collin {
+  background-color: chartreuse;
+  font-family: fantasy;
+}
+
 #amanda {
   background-color: grey;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
