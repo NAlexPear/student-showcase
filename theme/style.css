@@ -16,3 +16,15 @@
 }
 
 /* style your grid sections here!  */
+
+#container {
+background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+border: solid 1px whitesmoke;
+border-radius: 10px;
+
+}
+
+#facepic {
+  border: 2px solid lightgrey;
+  border-radius: 10px;
+}
