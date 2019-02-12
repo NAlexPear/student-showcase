@@ -14,5 +14,9 @@
   max-width: 750px;
   text-align: center;
 }
+.trevon h3{
+  text-align: center;
+  background-color: red;
+}
 
 /* style your grid sections here!  */
