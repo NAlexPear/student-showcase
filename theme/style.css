@@ -29,11 +29,26 @@
 }
 
 #evan {
+  align-items: center;
   background-color: bisque;
-  color: black;
-  font-family: 'Open Sans Condensed', sans-serif;
+  color: darkolivegreen;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  font-family: 'Arapey', serif;
+  font-size: 20px;
+  justify-content: space-around;
+}
+
+#evan a {
+  text-decoration: none;
+}
+
+#evan h2 {
+  text-decoration: underline;
+}
+
+#evan img {
+  height: 25%;
 }
 
 #amanda {
