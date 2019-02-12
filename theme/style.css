@@ -9,16 +9,13 @@
   background-position: center;
 }
 
-.header h1 {
+.dinko {
   display: block;
   max-width: 750px;
-  text-align: center;
+  text-decoration: underline;
+
 }
 
-h3 {
-  text-decoration: underline;
-  text-align: center;
-  background-color: yellow
-}
+
 
 /* style your grid sections here!  */
