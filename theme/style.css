@@ -16,3 +16,21 @@
 }
 
 /* style your grid sections here!  */
+#alex {
+  align-items: center;
+  background-color: hotpink;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  font-size: 2rem;
+  justify-content: space-around;
+}
+
+#alex img {
+  width: 100%;
+}
+
+#alex h4 {
+  font-family: cursive;
+  font-style: italic;
+}
