@@ -17,6 +17,19 @@
 
 
 /* style your grid sections here!  */
+
+#justin h1, h2, h3 {
+  font-family: syncopate, sans-serif;
+}  
+
+#justin img {
+  max-width: 50%;  
+}
+
+#justin {
+  background-color: gray;
+}
+
 #collin {
   background-color: chartreuse;
   font-family: fantasy;
