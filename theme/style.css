@@ -17,6 +17,17 @@
 
 
 /* style your grid sections here!  */
+.nate {
+  background-color: goldenrod;
+  font-family: Arial, Helvetica, sans-serif;
+  border: dashed;
+  text-align: center;
+}
+
+.nate .headers {
+  color: red
+}
+
 #evan {
   background-color: bisque;
   color: black;
@@ -49,7 +60,7 @@
   font-style: italic;
 }
 
-#Trevon h3{
+#Trevon h3 {
   text-align: center;
   background-color: red;
 }
