@@ -15,17 +15,52 @@
   text-align: center;
 }
 
-/* style your grid sections here!  */
 
-.nate{
+/* style your grid sections here!  */
+.nate {
   background-color: goldenrod;
   font-family: Arial, Helvetica, sans-serif;
   border: dashed;
   text-align: center;
-
-  
 }
 
-.headers{
+.nate .headers {
   color: red
+}
+
+#evan {
+  background-color: bisque;
+  color: black;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#amanda {
+  background-color: grey;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: dotted black;
+  text-align: center;
+}
+
+#alex {
+  align-items: center;
+  background-color: hotpink;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  font-size: 2rem;
+  justify-content: space-around;
+}
+
+#alex img {
+  width: 100%;
+}
+
+#alex h4 {
+  font-family: cursive;
+  font-style: italic;
+}
+
+#Trevon h3 {
+  text-align: center;
+  background-color: red;
 }
