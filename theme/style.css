@@ -19,11 +19,13 @@
 
 #justin h1, h2, h3 {
   font-family: syncopate, sans-serif;
-}  
+}
+
 #justin img {
-  max-width: 50%;  
+  max-width: 50%;
 }
 
 #justin {
   background-color: gray;
+  border: 4px dotted black;
 }
