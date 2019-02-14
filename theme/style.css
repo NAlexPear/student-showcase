@@ -15,8 +15,12 @@
   text-align: center;
 }
 
-.kevin {
-  
+#kevin {
+  background-image: linear-gradient( to right, red, #f06d06);
+  font-family: 'Audiowide', cursive;
 }
+#kevin img {
 
+  border-radius: 50%;
+}
 /* style your grid sections here!  */
