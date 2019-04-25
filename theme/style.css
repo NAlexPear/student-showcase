@@ -17,3 +17,26 @@
 
 
 /* style your grid sections here!  */
+#abbykaemmerer {
+  background: lightslategray;
+  font-family: monospace;
+  border: darkslategray 5px dashed;
+}
+
+#abbykaemmerer img {
+  border-radius: 20%;
+  float: left;
+}
+
+#abbykaemmerer ul > li {
+  font-weight: bold;
+}
+
+#abbykaemmerer ul {
+  text-align: center;
+  margin-left: 0;
+}
+
+#abbykaemmerer p {
+  text-align: center;
+}
