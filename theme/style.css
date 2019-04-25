@@ -17,3 +17,11 @@
 
 
 /* style your grid sections here!  */
+#manavm1990 {
+  background: cornflowerblue;
+  text-align: center;
+}
+
+#manavm1990 li {
+  list-style: none;
+}
