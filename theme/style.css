@@ -14,29 +14,6 @@
   max-width: 750px;
   text-align: center;
 }
- #rustiphyde {
-   background-color: black;
-   color:#b7410e;
-   text-shadow: 3px 3px 3px red;
-   text-align: center;
-   font-size: 1.5em;
-   padding: 12px;
-   margin: 3px;
-   width: 600px;
-   border: solid 6px orangered;;
-
- }
-
- #rustiphyde img {
-   border-radius: 50%;
-   border: dashed 6px orangered;
-   box-shadow:6px 6px 6px 6px orange;
- }
-
- #rustiphyde li {
-   list-style: none;
- }
-
 
 
 /* style your grid sections here!  */
@@ -92,3 +69,39 @@
     box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
 
 }
+
+#wjn img{
+width: 200px;
+height: 100px;
+border:solid 10px #	FF1493
+}
+#wjn q{
+  background-color: coral
+}
+#wjn ul{
+list-style: none;
+}
+ #rustiphyde {
+   background-color: black;
+   color:#b7410e;
+   text-shadow: 3px 3px 3px red;
+   text-align: center;
+   font-size: 1.5em;
+   padding: 12px;
+   margin: 3px;
+   width: 600px;
+   border: solid 6px orangered;;
+
+ }
+
+ #rustiphyde img {
+   border-radius: 50%;
+   border: dashed 6px orangered;
+   box-shadow:6px 6px 6px 6px orange;
+ }
+
+ #rustiphyde li {
+   list-style: none;
+ }
+
+
