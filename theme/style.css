@@ -17,6 +17,10 @@
 
 
 /* style your grid sections here!  */
+#lamarrhaynes img {
+  border-block-end-color: brown
+}
+
 #zhanaliner {
     font-family: sans-serif;
     font-size: 11pt;
@@ -103,5 +107,3 @@ list-style: none;
  #rustiphyde li {
    list-style: none;
  }
-
-
