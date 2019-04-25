@@ -17,6 +17,26 @@
 
 
 /* style your grid sections here!  */
+#dozenji{
+  text-align: center;
+  background-color: yellow;
+  }
+#dozenji ul{
+  font-size: 24px;
+}
+#dozenji li{
+  list-style: none;
+  color: red;
+  text-decoration: underline;
+}
+#dozenji img{
+  margin: 0 auto;
+  border: 3px solid green;
+}
+#dozenji q{
+  text-decoration: none;
+  color: blue;
+}
 #manavm1990 {
   background: cornflowerblue;
   text-align: center;
