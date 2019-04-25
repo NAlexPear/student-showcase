@@ -21,3 +21,89 @@
   border-block-end-color: brown
 }
 
+#zhanaliner {
+    font-family: sans-serif;
+    font-size: 11pt;
+    background: url("https://picsum.photos/id/415/5184/3456?random=1") no-repeat fixed;
+    background-size: 80vw;
+}
+
+#zhanaliner img {
+  float: left;
+}
+
+#zhanaliner div {
+  margin-left: 220px;
+}
+
+#zhanaliner ul li {
+  list-style: none;
+}
+#dozenji{
+  text-align: center;
+  background-color: yellow;
+  }
+#dozenji ul{
+  font-size: 24px;
+}
+#dozenji li{
+  list-style: none;
+  color: red;
+  text-decoration: underline;
+}
+#dozenji img{
+  margin: 0 auto;
+  border: 3px solid green;
+}
+#dozenji q{
+  text-decoration: none;
+  color: blue;
+}
+#manavm1990 {
+  background: cornflowerblue;
+  text-align: center;
+}
+
+#manavm1990 li {
+  list-style: none;
+}
+
+#manavm1990 img {
+  border-radius: 50%;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+
+}
+
+#wjn img{
+width: 200px;
+height: 100px;
+border:solid 10px #	FF1493
+}
+#wjn q{
+  background-color: coral
+}
+#wjn ul{
+list-style: none;
+}
+ #rustiphyde {
+   background-color: black;
+   color:#b7410e;
+   text-shadow: 3px 3px 3px red;
+   text-align: center;
+   font-size: 1.5em;
+   padding: 12px;
+   margin: 3px;
+   width: 600px;
+   border: solid 6px orangered;;
+
+ }
+
+ #rustiphyde img {
+   border-radius: 50%;
+   border: dashed 6px orangered;
+   box-shadow:6px 6px 6px 6px orange;
+ }
+
+ #rustiphyde li {
+   list-style: none;
+ }
