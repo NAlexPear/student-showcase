@@ -26,6 +26,20 @@ font-size: 20px;
 border-block-end-color: aqua
 }
 /* style your grid sections here!  */
+#jhfeltes {
+  background: red;
+  text-align: center;
+}
+
+#jhfeltes li {
+  list-style-type: upper-roman;
+}
+
+#jhfeltes img {
+  border-radius: 50%;
+  filter: grayscale(50);
+  box-shadow: 15px 15px black;
+}
 
 #nolerama {
   border-style: double;
