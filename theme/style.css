@@ -15,7 +15,16 @@
   text-align: center;
 }
 
+#dipsy416{
+background-color: blueviolet;
+text-align: left;
+color: black;
+font-size: 20px;
+}
 
+#dipsy416 img{
+border-block-end-color: aqua
+}
 /* style your grid sections here!  */
 #lamarrhaynes img {
   border-block-end-color: brown
