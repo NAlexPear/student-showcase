@@ -40,6 +40,24 @@
 
 
 /* style your grid sections here!  */
+#zhanaliner {
+    font-family: sans-serif;
+    font-size: 11pt;
+    background: url("https://picsum.photos/id/415/5184/3456?random=1") no-repeat fixed;
+    background-size: 80vw;
+}
+
+#zhanaliner img {
+  float: left;
+}
+
+#zhanaliner div {
+  margin-left: 220px;
+}
+
+#zhanaliner ul li {
+  list-style: none;
+}
 #dozenji{
   text-align: center;
   background-color: yellow;
