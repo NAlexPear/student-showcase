@@ -26,6 +26,22 @@ font-size: 20px;
 border-block-end-color: aqua
 }
 /* style your grid sections here!  */
+#manavm1991 {
+  background: goldenrod;
+  text-align: center;
+  border: 20px solid bisque;
+  list-style: none;
+  color: darkslategrey;
+  font-size: 22px;
+  text-decoration: bold;
+  text-shadow: 5px 9px 4px #1C6EA4;
+  cursor: help;
+}
+
+#manavm1991 img {
+  border: 7px solid bisque;
+}
+
 #lamarrhaynes img {
   border-block-end-color: brown
 }
