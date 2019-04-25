@@ -14,6 +14,29 @@
   max-width: 750px;
   text-align: center;
 }
+ #rustiphyde {
+   background-color: black;
+   color:#b7410e;
+   text-shadow: 3px 3px 3px red;
+   text-align: center;
+   font-size: 1.5em;
+   padding: 12px;
+   margin: 3px;
+   width: 600px;
+   border: solid 6px orangered;;
+
+ }
+
+ #rustiphyde img {
+   border-radius: 50%;
+   border: dashed 6px orangered;
+   box-shadow:6px 6px 6px 6px orange;
+ }
+
+ #rustiphyde li {
+   list-style: none;
+ }
+
 
 
 /* style your grid sections here!  */
