@@ -17,3 +17,31 @@
 
 
 /* style your grid sections here!  */
+
+#nolerama {
+  border-style: double;
+  border-color: olivedrab;
+  background: lavenderblush;
+  font-family: helvetica;
+  font-size: 36px;
+}
+
+#nolerama li {
+  list-style: none;
+  text-align: center;
+  font-style: bold;
+  text-shadow: 10px;
+}
+
+#nolerama img {
+  border-style: solid; color: gold;
+  max-width: 500px;
+  max-height: 500px;
+}
+
+#nolerama q {
+  background-color: bisque;
+  font-family: geneva;
+  font-style: italic;
+  text-align: left;
+}
