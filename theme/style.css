@@ -15,5 +15,15 @@
   text-align: center;
 }
 
+#dipsy416{
+background-color: blueviolet;
+text-align: right
+}
 
+#dipsy416 text{
+  -webkit-text-fill-color: brown;
+}
+#dipsy416 img{
+border-block-end-color: aqua
+}
 /* style your grid sections here!  */
