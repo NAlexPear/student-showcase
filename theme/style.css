@@ -40,3 +40,37 @@
 
 
 /* style your grid sections here!  */
+#dozenji{
+  text-align: center;
+  background-color: yellow;
+  }
+#dozenji ul{
+  font-size: 24px;
+}
+#dozenji li{
+  list-style: none;
+  color: red;
+  text-decoration: underline;
+}
+#dozenji img{
+  margin: 0 auto;
+  border: 3px solid green;
+}
+#dozenji q{
+  text-decoration: none;
+  color: blue;
+}
+#manavm1990 {
+  background: cornflowerblue;
+  text-align: center;
+}
+
+#manavm1990 li {
+  list-style: none;
+}
+
+#manavm1990 img {
+  border-radius: 50%;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+
+}
