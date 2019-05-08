@@ -7,3 +7,6 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 ## Contributors:
 
 + Kayla Lee
++ Quinn Darling
++ Mikela Montgomery 
++ Alex Pearson
