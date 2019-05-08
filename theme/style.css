@@ -15,10 +15,51 @@
   text-align: center;
 }
 
+img {
+  width: 100%;
+}
+
 /* style your grid sections here!  */
 
 .kaylacontainer {
   background-color: aqua;
   font-family: cursive;
   font-size: large;
+}
+
+#nate{
+  background-color: blueviolet;
+  border-style: dashed;
+
+}
+
+#quinn {
+  background-color: #2a0867;
+  color: #b371f4;
+  font-family: 'Cutive Mono', monospace;
+}
+
+#quinn a {
+  color: #b371f4;
+  font-weight: bold;
+}
+
+#quinn a:hover {
+  font-weight: bolder;
+}
+
+#quinn a:visited {
+  font-weight: 100;
+}
+
+#quinn h1 {
+  font-weight: bolder;
+}
+
+#alex {
+  background-color: hotpink;
+}
+
+#alex h3 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
