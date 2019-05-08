@@ -15,10 +15,34 @@
   text-align: center;
 }
 
+
 /* style your grid sections here!  */
 
 #nate{
   background-color: blueviolet;
   border-style: dashed;
   
+}
+
+#quinn {
+  background-color: #2a0867;
+  color: #b371f4;
+  font-family: 'Cutive Mono', monospace;
+}
+
+#quinn a {
+  color: #b371f4;
+  font-weight: bold;
+}
+
+#quinn a:hover {
+  font-weight: bolder;
+}
+
+#quinn a:visited {
+  font-weight: 100;
+}
+
+#quinn h1 {
+  font-weight: bolder;
 }
