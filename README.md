@@ -6,4 +6,5 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
 ## Contributors:
 + Quinn Darling
-
++ Mikela Montgomery 
++ Alex Pearson
