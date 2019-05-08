@@ -21,6 +21,12 @@ img {
 
 /* style your grid sections here!  */
 
+.kaylacontainer {
+  background-color: aqua;
+  font-family: cursive;
+  font-size: large;
+}
+
 #nate{
   background-color: blueviolet;
   border-style: dashed;
